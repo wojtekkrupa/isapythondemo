@@ -1,0 +1,998 @@
+condition,display_type,hdd_type,os,cpu_line,cpu_cores,cpu_speed,ram_size,ram_type,ram_speed,hdd_size,display_surface,display_resolution,gfx_type,weight,battery_capacity
+Używany,,HDD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i5,2,,8 GB,,,750 GB,matowa,1366 x 768,,,
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i5,2,,8 GB,,,120 GB,matowa,1366 x 768,,,
+Używany,,SSD,brak systemu,Intel Core i5,2,2.7 GHz,8 GB,DDR3L,1600,256 GB,błyszcząca,1366 x 768,NVIDIA GeForce GT 920M,2.3 kg,32 Wh
+Nowy,,SSD,Mac OS,Intel Core i5,2,2.9 GHz,8 GB,DDR3L,1600,128 GB,błyszcząca,1440 x 900,Intel HD Graphics 6000,1.35 kg,54 Wh
+Powystawowy,,eMMC,Windows 10 Home,Inny procesor,4,,2 GB,,,32 GB,błyszcząca,1920 x 1080,,,
+Używany,,HDD,Windows 10 Home,Intel Core i7,4,3.5 GHz,8 GB,DDR4,,1024 GB,błyszcząca antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 960M,2.6 kg,60 Wh
+Nowy,,HDD,Windows 10 Home,Intel Celeron,2,,4 GB,,,500 GB,błyszcząca,1366 x 768,,,
+Odnowiony przez producenta,TN,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR3L,,1000 GB,matowa,1366 x 768,Intel HD Graphics 505,2.2 kg,30 Wh
+Nowy,IPS,eMMC,Windows 10 Home,Intel Celeron Dual-Core,2,2.58 GHz,2 GB,DDR3,1600,32 GB,błyszcząca,1920 x 1080,,,
+Nowy,,HDD,Windows 10 Home,Intel Core i7,4,3.5 GHz,6 GB,DDR4,2133,1500 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 960M,3 kg,
+Używany,,HDD,"Windows 7 Professional 32-bit, Windows 7 Professional 64-bit, inny",Intel Core i5,2,,4 GB,,,320 GB,matowa,1366 x 768,,,
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 7 Professional 32-bit",Intel Core i5,2,3.3 GHz,4 GB,DDR3,,120 GB,matowa,1366 x 768,,,
+Używany,,HDD,"Windows 7 Professional 32-bit, Windows 7 Professional 64-bit",Intel Celeron,2,,2 GB,DDR3,,320 GB,matowa,1366 x 768,,,
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR4,2400,2048 GB,matowa,1920 x 1080,,2.4 kg,
+Używany,,HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,8 GB,DDR4,,1024 GB,matowa,1920 x 1080,,,
+Używany,,HDD,Windows 7 Home 64-bit,AMD Turion,2,2.3 GHz,4 GB,,,500 GB,błyszcząca,1600 x 900,,,
+Nowy,,HDD,Windows 10 Home,AMD A6,4,2.4 GHz,8 GB,DDR3,1600,500 GB,błyszcząca,1366 x 768,,,
+Używany,,HDD,"Windows 7 Professional 32-bit, Windows 7 Professional 64-bit, inny",Intel Core i5,2,,4 GB,,,320 GB,matowa,1366 x 768,,,
+Używany,,eMMC,"Windows 8.1 Professional 64-bit, Windows 10 Professional",Inny procesor,4,2.2 GHz,4 GB,DDR3,,64 GB,błyszcząca,1280 x 800,,1 kg,
+Nowy,,SSD,Mac OS,Intel Core i5,2,,8 GB,,,128 GB,błyszcząca,2560 x 1600,,1.37 kg,54 Wh
+Nowy,TN,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR3L,1600,500 GB,błyszcząca,1366 x 768,Intel HD Graphics 505,1.9 kg,33 Wh
+Nowy,TN,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2133,240 GB,matowa,1920 x 1080,Intel HD Graphics 620,2.2 kg,30 Wh
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Professional 64-bit, Windows 10 Home",Intel Core i7,2,3.6 GHz,8 GB,DDR3,,240 GB,matowa,1920 x 1080,NVIDIA Quadro NVS 5200M,3 kg,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,4 GB,DDR3,,320 GB,matowa,1366 x 768,,,
+Używany,,HDD,brak systemu,Intel Core i5,2,,8 GB,,,500 GB,matowa,1440 x 900,,,
+Nowy,TN,SSD,Windows 10 Home,AMD A12,4,3.6 GHz,8 GB,DDR4,2133,240 GB,matowa,1920 x 1080,,2.2 kg,30 Wh
+Nowy,IPS,HDD,Windows 10 Home,Intel Celeron Dual-Core,2,2.16 GHz,2 GB,DDR3,1600,500 GB,matowa,1920 x 1080,Intel HD Graphics 400,3 kg,35 Wh
+Powystawowy,,HDD,Windows 10 Home,Intel Core i5,4,,8 GB,,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,
+Nowy,TN,HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,Intel HD Graphics 620,2.18 kg,42 Wh
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,,16 GB,DDR4,,1512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1080,,
+Używany,,Brak,brak systemu,Intel Celeron,2,,brak,DDR3,,0 GB,matowa,1366 x 768,,,
+Nowy,TN,eMMC,Windows 10 Home,Inny procesor,4,,4 GB,DDR3L,,32 GB,matowa,1920 x 1080,Intel HD Graphics 400,,
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i7,2,3.3 GHz,8 GB,DDR3L,,256 GB,błyszcząca antyrefleksyjna,1920 x 1080,Intel HD Graphics 4400,1.37 kg,
+Nowy,IPS,SSD,Windows 10 Home,AMD Ryzen 5,4,3.6 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.43 kg,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,2666,256 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1060,3.73 kg,86 mAh
+Używany,IPS,SSD,Windows 10 Professional,Intel Core i7,2,3.2 GHz,8 GB,DDR3L,1600,256 GB,matowa,1920 x 1080,Intel HD Graphics 5500,,
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i5,2,2.9 GHz,8 GB,,,256 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Używany,IPS,SSD,Windows 8.1 Home 64-bit,Intel Core i5,2,2.7 GHz,8 GB,DDR3L,,256 GB,błyszcząca,3200 x 1800,Intel HD Graphics 5500,1.29 kg,52 Wh
+Nowy,,SSD,Mac OS,Intel Core i5,2,3.6 GHz,8 GB,DDR3L,2133,128 GB,błyszcząca,2560 x 1600,,1.35 kg,54 Wh
+Nowy,,SSD,Windows 10 Professional,Intel Core i5,2,3.5 GHz,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,,
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR3,2133,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,4050 mAh
+Nowy,IPS,SSD,Mac OS,Intel Core i5,2,,8 GB,DDR3L,,256 GB,błyszcząca,2560 x 1600,,1.37 kg,54 Wh
+Nowy,TN,HDD,Windows 10 Home,Intel Celeron Dual-Core,2,2.4 GHz,4 GB,DDR3L,1600,1000 GB,matowa,1366 x 768,Intel HD Graphics 500,2.2 kg,30 Wh
+Nowy,TN,SSD + HDD,"Windows 8.1 Professional 32-bit, Windows 8.1 Professional 64-bit, Windows 10 Professional, Linux, inny",Intel Core i5,2,3.3 GHz,16 GB,DDR3,,1128 GB,antyrefleksyjna,1366 x 768,Intel HD Graphics 4600,2.575 kg,56 Wh
+Nowy,IPS,SSD,Mac OS,Intel Core m3,2,2.2 GHz,8 GB,DDR3L,,256 GB,błyszcząca,2304 x 1440,Intel HD Graphics 515,0.92 kg,41.4 Wh
+Nowy,,SSD,Mac OS,Intel Core i5,2,2.9 GHz,8 GB,DDR3L,1600,128 GB,błyszcząca,1440 x 900,Intel HD Graphics 6000,1.35 kg,54 Wh
+Używany,,eMMC,Windows 10 Professional,Intel Celeron Dual-Core,2,,4 GB,,,48 GB,matowa,1366 x 768,,,
+Używany,,SSD,Windows 10 Home,Intel Core i5,4,,8 GB,,,512 GB,błyszcząca,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Home,AMD Ryzen 5,4,,8 GB,,,256 GB,antyrefleksyjna,Inna,,1.9 kg,
+Nowy,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,8 GB,DDR3,1866,1000 GB,matowa,1366 x 768,Intel HD Graphics 505,,
+Używany,TN,HDD,"Windows 7 Professional 32-bit, Windows 7 Professional 64-bit",Intel Core i5,2,3.2 GHz,4 GB,DDR3,,320 GB,matowa,1366 x 768,Intel HD Graphics 3000,2.3 kg,
+Nowy,IPS,Hybrydowy,Windows 10 Home,Intel Core i5,2,2.7 GHz,8 GB,DDR3,1600,500 GB,błyszcząca,1920 x 1080,NVIDIA GeForce GT 940M,1.9 kg,45 Wh
+Nowy,TN,SSD,Windows 10 Home,Intel Celeron,2,2.4 GHz,4 GB,DDR4,2400,32 GB,antyrefleksyjna,1920 x 1080,Intel HD Graphics 500,1.44 kg,
+Używany,,HDD,inny,Intel Celeron Dual-Core,2,,2 GB,DDR3,,320 GB,matowa,1366 x 768,,,
+Używany,,eMMC,Chrome OS,Intel Celeron Dual-Core,2,,4 GB,,,16 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Mac OS,Intel Core i5,2,3.5 GHz,8 GB,DDR3L,2133,256 GB,błyszcząca antyrefleksyjna,2560 x 1600,Intel Iris Plus Graphics 650,1.37 kg,
+Nowy,IPS,SSD,Mac OS,Intel Core m3,2,2.2 GHz,8 GB,DDR3L,,256 GB,błyszcząca,2304 x 1440,Intel HD Graphics 515,0.92 kg,41.4 Wh
+Używany,,HDD,Windows 8.1 Professional 64-bit,Intel Celeron Quad Core,4,,4 GB,DDR3L,,320 GB,matowa,1366 x 768,,,
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i5,2,,8 GB,DDR3,,128 GB,matowa,1366 x 768,,,
+Używany,IPS,SSD,Windows 10 Professional,Intel Core i5,2,3 GHz,8 GB,DDR4,,512 GB,matowa,1920 x 1080,Intel HD Graphics 520,,
+Używany,,eMMC,Chrome OS,Intel Celeron Quad Core,4,,4 GB,DDR3L,,16 GB,błyszcząca,1366 x 768,,,
+Nowy,TN,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1240 GB,matowa,1920 x 1080,,1.62 kg,3727 mAh
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i5,4,,12 GB,,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Nowy,IPS,SSD,"Windows 8.1 Professional 32-bit, Windows 8.1 Professional 64-bit, Windows 10 Professional, Linux, inny",Intel Core m,2,2.9 GHz,4 GB,DDR3,,128 GB,błyszcząca,1920 x 1080,Intel HD Graphics 5300,1.36 kg,35 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,2400,2256 GB,matowa,1920 x 1080,AMD Radeon 530M,2.45 kg,42 Wh
+Nowy,TN,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.4 GHz,8 GB,DDR4,2400,1128 GB,matowa,1920 x 1080,Intel HD Graphics 620,2.18 kg,42 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i7,2,3 GHz,8 GB,DDR3,1600,1000 GB,matowa,1920 x 1080,AMD Radeon R7 M360,1.8 kg,
+Używany,,HDD,"Windows 7 Home 64-bit, Windows 7 Home 32-bit",Intel Core i5,2,,2 GB,DDR3,,250 GB,matowa,1280 x 800,,,
+Nowy,IPS,SSD,Mac OS,Intel Core i5,2,3.6 GHz,8 GB,DDR3L,2133,128 GB,błyszcząca,2560 x 1600,,1.25 kg,50 Wh
+Nowy,,SSD,brak systemu,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.54 kg,3727 mAh
+Powystawowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR4,2400,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.56 GHz,8 GB,DDR3,1600,240 GB,błyszcząca,1366 x 768,Intel HD Graphics 405,2.2 kg,40 Wh
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3.2 GHz,8 GB,DDR3,,120 GB,matowa,1366 x 768,Intel HD Graphics 3000,2.2 kg,
+Nowy,,SSD,Windows 10 Home,Intel Celeron Dual-Core,2,2.41 GHz,4 GB,DDR3,1600,256 GB,błyszcząca,1366 x 768,Intel HD Graphics 400,3 kg,
+Używany,TN,HDD,"Windows 7 Professional 64-bit, Windows 7 Professional 32-bit",Intel Core i5,2,2.93 GHz,4 GB,DDR3,,320 GB,matowa,1280 x 800,,2.49 kg,
+Nowy,TN,SSD,Windows 10 Professional,AMD A10,4,3.3 GHz,8 GB,DDR4,,240 GB,matowa,1920 x 1080,,2.08 kg,48 Wh
+Nowy,TN,SSD,"Windows 10 Professional, Linux, inny",Intel Core i5,2,3 GHz,8 GB,DDR4,2133,256 GB,matowa,1366 x 768,Intel HD Graphics 520,1.6 kg,
+Nowy,IPS,SSD,Mac OS,Intel Core i5,2,3.5 GHz,8 GB,DDR3,2133,256 GB,błyszcząca,2560 x 1600,,1.37 kg,49.2 Wh
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i7,2,3.3 GHz,8 GB,DDR3L,,256 GB,matowa,1920 x 1080,Intel HD Graphics 4400,1.4 kg,34 Wh
+Nowy,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.7 GHz,4 GB,DDR4,2133,1000 GB,matowa,1920 x 1080,,1.9 kg,
+Nowy,TN,eMMC,Windows 10 Home,Inny procesor,4,1.92 GHz,4 GB,DDR3,,32 GB,matowa,1920 x 1080,,1.38 kg,10000 mAh
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,1128 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,,
+Nowy,TN,HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2133,1000 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,2.2 kg,4030 mAh
+Nowy,,eMMC,Windows 10 Home,Intel Celeron Dual-Core,2,2.4 GHz,4 GB,DDR3,,32 GB,błyszcząca,1920 x 1080,Intel HD Graphics 500,1.375 kg,10000 mAh
+Używany,TN,eMMC,Chrome OS,Intel Celeron Dual-Core,2,2.58 GHz,4 GB,,,16 GB,błyszcząca,1366 x 768,,,
+Używany,IPS,SSD,"Windows 8.1 Professional 64-bit, Windows 10 Professional",Intel Core i7,2,3.3 GHz,8 GB,DDR3L,,240 GB,matowa,1920 x 1080,Intel HD Graphics 4400,1.7 kg,
+Nowy,TN,HDD,Windows 10 Home,Intel Celeron Dual-Core,2,2.2 GHz,4 GB,DDR3L,1600,500 GB,antyrefleksyjna,1366 x 768,Intel HD Graphics 500,1.84 kg,
+Używany,,HDD,"Windows 7 Professional 64-bit, Windows 7 Professional 32-bit",Intel Core i5,2,2.93 GHz,4 GB,DDR3,,160 GB,matowa,1280 x 800,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4.1 GHz,16 GB,DDR4,2400,512 GB,błyszcząca,3840 x 2160,,2.14 kg,84 Wh
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i7,2,3.6 GHz,8 GB,DDR3,,128 GB,matowa,1600 x 900,NVIDIA Quadro NVS 5200M,2.6 kg,
+Nowy,IPS,SSD,Windows 10 Home,AMD Ryzen 5,4,3.6 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,,1.3 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1128 GB,błyszcząca,1920 x 1080,NVIDIA GeForce MX150,2.16 kg,55.8 Wh
+Używany,,SSD,Mac OS,Intel Core i5,2,,8 GB,,,128 GB,błyszcząca antyrefleksyjna,2560 x 1600,,,
+Nowy,IPS,SSD,Mac OS,Intel Core i7,6,4.4 GHz,16 GB,DDR4,2400,256 GB,błyszcząca,2880 x 1800,AMD Radeon Pro 555X,1.83 kg,83.6 Wh
+Używany,,SSD,Mac OS,Intel Core 2 Duo,2,,4 GB,,,60 GB,błyszcząca,1280 x 800,,,
+Nowy,,SSD,Mac OS,Intel Core i5,2,2.9 GHz,8 GB,DDR3,1600,128 GB,błyszcząca,1440 x 900,Intel HD Graphics 6000,1.35 kg,
+Nowy,,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,8 GB,DDR3,1866,256 GB,matowa,1366 x 768,Intel HD Graphics 505,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3,1866,512 GB,błyszcząca,3840 x 2160,Intel HD Graphics 620,1.21 kg,52 Wh
+Używany,,HDD,"Linux, Windows 7 Professional 32-bit",Intel Core 2 Duo,2,,4 GB,DDR2,,160 GB,matowa,1280 x 800,,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,48 Wh
+Nowy,TN,HDD,Windows 10 Home,Intel Celeron Dual-Core,2,2.6 GHz,4 GB,DDR3,,500 GB,antyrefleksyjna,1920 x 1080,Intel HD Graphics 500,2 kg,
+Używany,TN,HDD,"Windows 7 Professional 64-bit, Windows 7 Professional 32-bit",Intel Core i5,2,3.3 GHz,8 GB,DDR3,,320 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Nowy,IPS,SSD,Windows 10 Home,AMD Ryzen 5,4,3.6 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.43 kg,
+Nowy,,HDD,Windows 10 Home,Intel Core i3,2,3.4 GHz,8 GB,DDR4,2133,1 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,
+Używany,,SSD,Mac OS,Intel Core i5,2,2.8 GHz,8 GB,,1600,120 GB,matowa,1440 x 900,Intel HD Graphics 4000,1.35 kg,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i5,2,,8 GB,,2133,1256 GB,antyrefleksyjna,1920 x 1080,,,
+Nowy,,HDD,Windows 10 Home,Intel Core i7,4,3.5 GHz,8 GB,DDR4,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 950M,,45 Wh
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i7,2,,8 GB,,,256 GB,błyszcząca,1920 x 1080,,,
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i7,4,3.8 GHz,16 GB,DDR3L,,256 GB,matowa,1920 x 1080,NVIDIA Quadro K3100M,3.6 kg,97 Wh
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i7,4,3.5 GHz,32 GB,DDR3,,512 GB,matowa,1920 x 1080,NVIDIA Quadro K2100M,3.2 kg,
+Nowy,TN,SSD,"inny, Windows 10 Home",Intel Core i3,2,2 GHz,8 GB,DDR4,2133,240 GB,matowa,1920 x 1080,Intel HD Graphics 520,1.86 kg,41 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,2666,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,2.81 kg,56 Wh
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i5,4,,8 GB,,,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i7,4,,16 GB,DDR3,,480 GB,matowa,1920 x 1080,,,
+Nowy,TN,SSD,Windows 10 Professional,Intel Core i3,2,,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,Intel HD Graphics 520,1.9 kg,32 Wh
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1120 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Używany,TN,HDD,"Windows 7 Home 32-bit, Windows 7 Home 64-bit",AMD E,2,,2 GB,DDR3,,250 GB,matowa,1366 x 768,,,
+Nowy,,SSD,Mac OS,Intel Core i5,2,2.9 GHz,8 GB,DDR3,,128 GB,błyszcząca,1440 x 900,Intel HD Graphics 6000,1.35 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Professional,Intel Core i5,4,4 GHz,8 GB,DDR4,2666,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.95 kg,56 Wh
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i7,2,3.3 GHz,8 GB,DDR3,,240 GB,błyszcząca,1366 x 768,Intel HD Graphics 4000,2 kg,
+Używany,,SSD,Windows 10 Professional,Intel Core i5,2,3 GHz,4 GB,DDR3,,120 GB,matowa,1366 x 768,,,
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i5,4,3 GHz,8 GB,DDR4,2400,1000 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1050,,70 Wh
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i5,4,,8 GB,,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,3.2 GHz,4 GB,DDR3,,160 GB,matowa,1366 x 768,Intel HD Graphics 3000,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,4 GHz,12 GB,DDR4,2400,1128 GB,błyszcząca,1920 x 1080,NVIDIA GeForce MX130,1.68 kg,41 Wh
+Nowy,TN,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2133,240 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,2.2 kg,4030 mAh
+Używany,,HDD,"Windows 8.1 Professional 64-bit, Windows 8.1 Professional 32-bit",Intel Core i5,2,2.9 GHz,4 GB,DDR3,,320 GB,matowa,1366 x 768,Intel HD Graphics 4400,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,,1256 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1512 GB,matowa,3840 x 2160,NVIDIA GeForce GTX 1060,2.65 kg,56 Wh
+Nowy,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,,8 GB,DDR3,,1000 GB,matowa,1920 x 1080,,2.2 kg,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,3.03 kg,64 Wh
+Używany,,SSD,"Windows 10 Home, Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i5,2,2.93 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,,,
+Nowy,,eMMC,Windows 10 Home,Intel Celeron,2,,2 GB,DDR3,1600,32 GB,błyszcząca,1366 x 768,Intel HD Graphics 500,1.35 kg,
+Używany,,HDD,Windows 7 Home 64-bit,Intel Core i5,2,2.53 GHz,6 GB,,,500 GB,błyszcząca,1366 x 768,,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.36 kg,3220 mAh
+Używany,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.5 GHz,8 GB,DDR4,2133,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 950M,,
+Nowy,IPS,SSD,Mac OS,Intel Core i5,4,,8 GB,,,256 GB,błyszcząca,2560 x 1600,,,58 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,,512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,1128 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD,Mac OS,Intel Core i5,2,3.5 GHz,8 GB,DDR3,2133,256 GB,błyszcząca,2560 x 1600,,1.37 kg,49.2 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i7,3,4 GHz,16 GB,DDR4,2400,256 GB,matowa,1920 x 1080,AMD Radeon 530M,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,4 GB,,,250 GB,matowa,1440 x 900,,,
+Używany,,SSD,"Windows 8.1 Professional 64-bit, Windows 10 Professional",Intel Core i5,2,3 GHz,8 GB,DDR3,1600,256 GB,matowa,1366 x 768,,22.7 kg,
+Nowy,,HDD,brak systemu,Intel Core i5,4,,8 GB,,,1000 GB,matowa,1920 x 1080,,,
+Odnowiony przez producenta,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,8 GB,DDR3,1866,1000 GB,matowa,1366 x 768,Intel HD Graphics 505,,
+Nowy,IPS,SSD,Mac OS,Intel Core i7,4,3.6 GHz,16 GB,DDR3L,2133,512 GB,błyszcząca antyrefleksyjna,2880 x 1800,AMD Radeon Pro 560,,
+Powystawowy,,SSD + HDD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2133,1120 GB,matowa,1920 x 1080,NVIDIA GeForce 940MX,2.2 kg,3220 mAh
+Nowy,TN,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.4 GHz,8 GB,DDR4,2400,1128 GB,matowa,1920 x 1080,,2.18 kg,42 Wh
+Używany,IPS,SSD,Mac OS,Intel Core i7,4,3.7 GHz,16 GB,DDR3L,1600,256 GB,błyszcząca antyrefleksyjna,2880 x 1800,Intel Iris Pro Graphics 5200,,
+Nowy,TN,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR4,2400,250 GB,matowa,1920 x 1080,Intel HD Graphics 505,1.4 kg,32 Wh
+Po zwrocie,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.3 GHz,32 GB,DDR4,2666,1512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1080 SLI x 2,5.5 kg,
+Powystawowy,,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1240 GB,matowa,1600 x 900,NVIDIA GeForce 940MX,2.1 kg,3653 mAh
+Używany,,SSD,Mac OS,Intel Core i7,2,3.1 GHz,8 GB,DDR3L,1600,240 GB,błyszcząca antyrefleksyjna,1440 x 900,Intel HD Graphics 6000,1.35 kg,
+Nowy,,SSD,Mac OS,Intel Core i5,2,2.9 GHz,8 GB,DDR3,1600,128 GB,błyszcząca,1440 x 900,Intel HD Graphics 6000,1.35 kg,
+Nowy,TN,SSD,Windows 10 Home,Intel Core i3,2,2 GHz,8 GB,DDR4,2133,240 GB,matowa,1920 x 1080,NVIDIA GeForce GT 920M,1.93 kg,
+Nowy,,SSD,Windows 10 Professional,AMD A6,2,2.9 GHz,8 GB,DDR4,2133,240 GB,matowa,1366 x 768,,2.2 kg,4000 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR4,,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,4 GB,DDR3,,250 GB,matowa,1366 x 768,,,
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i7,2,3.3 GHz,8 GB,,,256 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Używany,VA,SSD,Windows 10 Professional,Intel Core i5,2,2.8 GHz,8 GB,DDR4,,256 GB,matowa,1920 x 1080,Intel HD Graphics 520,1.26 kg,
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3 GHz,8 GB,DDR3L,,240 GB,matowa,1600 x 900,Intel HD Graphics 4400,1.78 kg,90 Wh
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,,,320 GB,matowa,1600 x 900,,,
+Odnowiony przez sprzedawcę,,SSD,Windows 10 Professional,Intel Core i7,4,,16 GB,,,480 GB,matowa,1920 x 1080,,2.63 kg,
+Nowy,,eMMC,Windows 10 Home,Inny procesor,4,,4 GB,DDR3L,,32 GB,antyrefleksyjna,1920 x 1080,Intel HD Graphics 400,1.386 kg,10000 mAh
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,4 GB,,,128 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Nowy,IPS,SSD,Mac OS,Intel Core m3,2,,8 GB,DDR3,,256 GB,błyszcząca,2304 x 1440,Intel HD Graphics 515,0.92 kg,
+Nowy,,SSD,brak systemu,Intel Pentium Quad-Core,4,2.7 GHz,4 GB,DDR4,2133,128 GB,matowa,1920 x 1080,,1.86 kg,3070 mAh
+Używany,,HDD,Windows 7 Home 64-bit,AMD E,1,,8 GB,DDR3,,500 GB,błyszcząca,1366 x 768,,,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1120 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.65 kg,56 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,1.33 kg,3653 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i3,2,,8 GB,,,256 GB,błyszcząca,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050 Ti Max-Q,1.8 kg,97 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,2.62 kg,70 Wh
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,DDR3,,320 GB,matowa,1366 x 768,Intel HD Graphics 3000,,
+Nowy,,SSD,Windows 10 Home,Intel Core i7,3,4 GHz,16 GB,DDR4,2133,512 GB,błyszcząca,Inna,NVIDIA GeForce MX150,1.33 kg,
+Używany,,SSD,Mac OS,Intel Core i7,4,,16 GB,,,500 GB,błyszcząca antyrefleksyjna,2880 x 1800,,,
+Nowy,TN,HDD,Windows 10 Home,Intel Core i3,2,3.4 GHz,8 GB,DDR4,,1000 GB,matowa,1366 x 768,,2.2 kg,30 Wh
+Nowy,TN,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce MX130,1.95 kg,3727 mAh
+Używany,,HDD,"Windows 7 Professional 64-bit, Windows 7 Professional 32-bit",Intel Core i5,2,3.1 GHz,4 GB,DDR3,,320 GB,matowa,1366 x 768,,,
+Nowy,,SSD,"Windows 7 Professional 32-bit, Windows 7 Professional 64-bit",Intel Core i5,2,3.3 GHz,8 GB,DDR3,1333,120 GB,matowa,1366 x 768,,,
+Używany,TN,SSD,Windows 10 Professional,Intel Core i5,2,3.3 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Nowy,IPS,HDD,"Windows 10 Home, Windows 8.1 Home 64-bit",Intel Core i5,2,3.4 GHz,8 GB,DDR3,1600,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 860M,2.4 kg,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Professional,Intel Core i5,2,3.1 GHz,8 GB,DDR3L,1866,256 GB,matowa,1920 x 1080,Intel HD Graphics 520,,
+Nowy,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.7 GHz,4 GB,DDR4,2400,500 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3L,2133,512 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.29 kg,60 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,256 GB,matowa,1600 x 900,,,
+Powystawowy,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.56 GHz,8 GB,DDR3,1600,500 GB,błyszcząca,1366 x 768,Intel HD Graphics 405,2.15 kg,2700 mAh
+Nowy,,eMMC,Windows 10 Home,Inny procesor,4,,2 GB,,,32 GB,błyszcząca,1280 x 800,,,
+Używany,,eMMC,"Windows 8.1 Professional 64-bit, Windows 10 Professional",Inny procesor,4,,2 GB,,,32 GB,błyszcząca,1366 x 768,,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,,,128 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,AMD Radeon 530M,2.2 kg,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,8 GB,,,1120 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i5,2,3.3 GHz,8 GB,DDR3,,240 GB,matowa,1600 x 900,,2.8 kg,
+Nowy,TN,SSD,Windows 10 Professional,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,2 kg,42 Wh
+Nowy,TN,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2133,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,,
+Nowy,,SSD,Windows 10 Home,Intel Core i3,2,3.4 GHz,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,
+Nowy,TN,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,2.18 kg,42 Wh
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,3.2 GHz,4 GB,DDR3,,250 GB,matowa,1600 x 900,Intel HD Graphics 3000,,
+Używany,TN,SSD,"Windows 10 Professional, Windows 8.1 Professional 64-bit, Windows 7 Home 64-bit",Intel Core i5,2,2.6 GHz,8 GB,DDR3,,256 GB,matowa,1600 x 900,Intel HD Graphics 4400,1.6 kg,
+Nowy,TN,HDD,Windows 10 Home,Intel Core i3,2,2 GHz,4 GB,DDR3,1600,500 GB,matowa,1366 x 768,Intel HD Graphics 5500,1.98 kg,2850 mAh
+Nowy,VA,HDD,Windows 10 Home,Intel Celeron Dual-Core,2,2 GHz,4 GB,DDR3L,1600,1000 GB,błyszcząca antyrefleksyjna,1920 x 1080,Intel HD Graphics 500,,
+Nowy,TN,HDD,brak systemu,Intel Core i3,2,3.4 GHz,4 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,,1.63 kg,3727 mAh
+Nowy,,HDD,Windows 10 Professional,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,1000 GB,matowa,1920 x 1080,,,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,8 GB,,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Nowy,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.56 GHz,4 GB,DDR3,1600,500 GB,błyszcząca,1366 x 768,Intel HD Graphics 405,1.95 kg,2850 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.05 kg,97 Wh
+Nowy,IPS,eMMC,Windows 10 Home,Inny procesor,4,1.92 GHz,2 GB,DDR3,1600,32 GB,błyszcząca,1280 x 800,,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,4 GB,,,250 GB,matowa,1366 x 768,,,
+Nowy,,SSD,Windows 10 Professional,Intel Core i7,4,4.2 GHz,16 GB,DDR4,2400,512 GB,matowa,1920 x 1080,,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,,1128 GB,matowa,1920 x 1080,,,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,,256 GB,błyszcząca,1920 x 1080,,,
+Powystawowy,,SSD,Windows 10 Professional,Intel Core i5,2,3.2 GHz,8 GB,DDR3,,160 GB,matowa,1366 x 768,,,
+Nowy,TN,HDD,Windows 10 Home,Intel Core i5,4,3.2 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GT 940M,,
+Używany,,SSD,"Windows 8.1 Professional 64-bit, Windows 7 Professional 64-bit",Intel Core i7,2,3.2 GHz,8 GB,DDR3,,256 GB,matowa,2560 x 1440,,,
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Home",Intel Core i5,2,3.3 GHz,8 GB,DDR3,,120 GB,matowa,1366 x 768,,,
+Używany,TN,SSD,Mac OS,Intel Core i7,2,,8 GB,,,240 GB,błyszcząca antyrefleksyjna,1440 x 900,Intel HD Graphics 5000,,
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,3.3 GHz,4 GB,DDR3,,320 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i3,2,2 GHz,24 GB,DDR4,2400,128 GB,matowa,1920 x 1080,,1.7 kg,
+Używany,IPS,SSD,"Windows 8.1 Professional 64-bit, Windows 10 Professional",Intel Core i7,2,3.3 GHz,8 GB,DDR3L,,500 GB,matowa,1920 x 1080,Intel HD Graphics 4400,1.7 kg,
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i5,4,,8 GB,DDR4,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,45 Wh
+Powystawowy,,SSD,Windows 10 Professional,Intel Core i5,4,3.4 GHz,8 GB,DDR3,2133,512 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,1.15 kg,
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,IPS,eMMC,Windows 10 Home,Inny procesor,4,1.92 GHz,4 GB,DDR3,,32 GB,błyszcząca,1920 x 1080,,1.12 kg,8000 mAh
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i5,4,4 GHz,16 GB,DDR4,2666,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.98 kg,3220 mAh
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,1128 GB,błyszcząca,1920 x 1080,,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i7,2,3.2 GHz,8 GB,DDR3,,256 GB,matowa,1600 x 900,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.8 GHz,32 GB,DDR4,2400,1024 GB,błyszcząca,3840 x 2160,NVIDIA GeForce GTX 1050 Ti Max-Q,1.8 kg,97 Wh
+Nowy,TN,HDD,Windows 10 Home,Intel Celeron Dual-Core,2,2.6 GHz,4 GB,DDR4,,1000 GB,matowa,1366 x 768,,2.2 kg,30 Wh
+Nowy,,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.7 GHz,4 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.87 kg,3070 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR3L,2133,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.26 kg,60 Wh
+Nowy,,HDD,brak systemu,Intel Pentium Quad-Core,4,2.7 GHz,4 GB,DDR4,2133,1000 GB,matowa,1920 x 1080,,1.92 kg,
+Powystawowy,,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i7,2,,8 GB,,,128 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2666,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.95 kg,56 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2666,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.95 kg,56 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i3,2,,8 GB,DDR3,1600,256 GB,błyszcząca,1920 x 1080,,2.6 kg,48 Wh
+Nowy,,SSD,Mac OS,Intel Core i5,2,2.9 GHz,8 GB,DDR3L,1600,128 GB,błyszcząca,1440 x 900,Intel HD Graphics 6000,1.35 kg,54 Wh
+Nowy,IPS,SSD,Mac OS,Intel Core i5,2,3.6 GHz,8 GB,DDR3L,2133,128 GB,błyszcząca,2560 x 1600,,1.25 kg,50 mAh
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 7 Professional 32-bit",Intel Core i5,2,2.9 GHz,4 GB,DDR3,,120 GB,matowa,1280 x 800,,,
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,AMD Radeon 530M,2.2 kg,
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3,1866,512 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,1.27 kg,4335 mAh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3,,512 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2133,256 GB,błyszcząca,1920 x 1080,,1.38 kg,
+Powystawowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,8 GB,DDR4,2400,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.4 kg,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,2400,256 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1050,2.16 kg,52.5 Wh
+Używany,IPS,SSD,"Windows 8.1 Professional 64-bit, Windows 10 Professional",Intel Core i7,2,3.3 GHz,8 GB,DDR3L,,120 GB,matowa,1920 x 1080,Intel HD Graphics 4400,1.7 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2666,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,2.57 kg,3220 mAh
+Nowy,,HDD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,,2.2 kg,
+Używany,TN,HDD,inny,Intel Celeron M,1,,3 GB,DDR3,,100 GB,matowa,1366 x 768,,2.5 kg,40 Wh
+Nowy,,SSD,Mac OS,Intel Core i5,2,2.9 GHz,8 GB,DDR3,1600,128 GB,błyszcząca,1440 x 900,,,
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i7,6,,32 GB,,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,IPS,SSD,Windows 10 Home,Inny procesor,4,1.92 GHz,4 GB,DDR3,,128 GB,błyszcząca,1280 x 800,Intel HD Graphics 400,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,2,3.5 GHz,16 GB,DDR4,1866,512 GB,błyszcząca,3200 x 1800,Intel HD Graphics 620,1.3 kg,60 Wh
+Nowy,TN,SSD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.7 kg,74 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i3,2,2.7 GHz,4 GB,DDR4,2133,128 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,,
+Nowy,,SSD,Mac OS,Intel Core i5,2,3.6 GHz,8 GB,DDR3L,2133,128 GB,błyszcząca,2560 x 1600,,1.35 kg,54 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,2.3 kg,3500 mAh
+Odnowiony przez sprzedawcę,,SSD,Windows 10 Professional,Intel Core i7,4,,8 GB,,,240 GB,matowa,1920 x 1080,,2.63 kg,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR3,,256 GB,błyszcząca,2160 x 1440,Intel HD Graphics 620,1.05 kg,41 Wh
+Nowy,TN,SSD,Windows 10 Home,Intel Core i3,2,,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,Intel HD Graphics 520,2.25 kg,2700 mAh
+Nowy,,HDD,Windows 10 Home,PowerPC G4,4,,4 GB,,,32 GB,matowa,1920 x 1080,,,
+Powystawowy,,eMMC,Windows 10 Home,Intel Celeron Dual-Core,2,2.4 GHz,4 GB,DDR3,1600,64 GB,błyszcząca,1366 x 768,Intel HD Graphics 500,1 kg,5000 mAh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.9 GHz,32 GB,DDR4,2400,1256 GB,antyrefleksyjna,3840 x 2160,NVIDIA GeForce GTX 1080,4.85 kg,99 mAh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,8 GB,DDR4,,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core 2 Duo,2,,4 GB,,,160 GB,matowa,1366 x 768,,2.3 kg,
+Nowy,IPS,SSD,Windows 10 Home,AMD Ryzen 5,4,3.6 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.45 kg,57.4 Wh
+Nowy,,SSD,Windows 10 Home,AMD A6,4,2.4 GHz,8 GB,DDR3,1600,240 GB,błyszcząca,1366 x 768,,2.2 kg,
+Nowy,TN,HDD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.7 kg,74 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.05 kg,56 Wh
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3.3 GHz,4 GB,DDR3,,120 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Mac OS,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,256 GB,błyszcząca,2880 x 1800,AMD Radeon Pro 555X,1.83 kg,83.6 Wh
+Po zwrocie,,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,1128 GB,matowa,1920 x 1080,AMD Radeon 530M,,
+Nowy,IPS,eMMC,Windows 10 Home,Intel Celeron Dual-Core,2,2.4 GHz,4 GB,DDR3L,1600,64 GB,błyszcząca,1920 x 1080,Intel HD Graphics 500,1.25 kg,
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,AMD Radeon 530M,2.2 kg,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,32 GB,DDR4,,512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,IPS,SSD,Mac OS,Intel Core i7,2,,8 GB,DDR3L,,128 GB,błyszcząca,2560 x 1600,,1.37 kg,54 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i3,2,2.4 GHz,4 GB,DDR4,2133,128 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.2 kg,
+Nowy,IPS,SSD,Windows 10 Home,AMD Ryzen 5,4,,8 GB,DDR4,,256 GB,matowa,1920 x 1080,,,
+Nowy,IPS,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.7 GHz,4 GB,DDR4,2400,500 GB,błyszcząca,1366 x 768,,1.3 kg,3640 mAh
+Nowy,,SSD + HDD,"Windows 10 Professional, Windows 10 Home",Intel Core i7,4,4 GHz,16 GB,DDR4,2400,2128 GB,matowa,1920 x 1080,,,42 Wh
+Nowy,IPS,SSD,Mac OS,Intel Core i5,2,3.6 GHz,8 GB,DDR3,2133,128 GB,błyszcząca,2560 x 1600,,1.37 kg,54.5 Wh
+Nowy,,SSD,Windows 10 Home,Intel Celeron Dual-Core,2,2.48 GHz,4 GB,DDR3L,1600,32 GB,błyszcząca,1366 x 768,Intel HD Graphics 400,1.44 kg,41 Wh
+Nowy,IPS,SSD,Mac OS,Intel Core i5,2,,8 GB,DDR3L,,256 GB,błyszcząca,2560 x 1600,,1.37 kg,54 Wh
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,3.2 GHz,4 GB,DDR3,,250 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Używany,,SSD,"Windows 10 Home, Windows 10 Professional",Intel Core i5,2,3.2 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,,,
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Celeron,2,,4 GB,DDR3,,160 GB,antyrefleksyjna,1280 x 800,,,
+Nowy,TN,SSD + HDD,Windows 10 Professional,Intel Core i5,2,3.4 GHz,8 GB,DDR4,2400,1128 GB,matowa,1920 x 1080,,1.67 kg,42 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,256 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,1.9 kg,
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Home",Intel Core i5,2,3.3 GHz,4 GB,DDR3,,128 GB,matowa,1366 x 768,,,
+Używany,TN,SSD,"Windows 10 Professional, Windows 8.1 Professional 64-bit, Windows 7 Home 64-bit",Intel Core i5,2,3.3 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,Intel HD Graphics 4600,2.6 kg,
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Professional 64-bit, Windows 10 Home",Intel Core i7,4,3.7 GHz,16 GB,DDR3,,512 GB,matowa,1920 x 1080,,3 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,AMD Ryzen 5,4,3.6 GHz,8 GB,DDR4,2400,1120 GB,błyszcząca,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3L,2133,512 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.26 kg,60 Wh
+Powystawowy,IPS,eMMC,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR3,1600,64 GB,błyszcząca,1920 x 1080,Intel HD Graphics 505,1.3 kg,4670 mAh
+Używany,IPS,eMMC,Chrome OS,Intel Celeron Dual-Core,2,2.58 GHz,4 GB,,,16 GB,błyszcząca,1366 x 768,,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,8 GB,DDR4,2400,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Powystawowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2133,256 GB,błyszcząca,1920 x 1080,,1.7 kg,4610 mAh
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,AMD Radeon 530M,,
+Nowy,,HDD,Windows 10 Home,Intel Core i5,4,,8 GB,DDR4,,1000 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Używany,IPS,HDD,Windows 10 Home,Intel Core i5,4,,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i7,4,3.8 GHz,16 GB,DDR3L,,256 GB,matowa,1920 x 1080,NVIDIA Quadro K2100M,2.89 kg,97 Wh
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3.1 GHz,8 GB,DDR3L,,256 GB,matowa,1920 x 1080,,2.89 kg,65 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,2400,1000 GB,antyrefleksyjna,1920 x 1080,AMD Radeon 530M,2.1 kg,41 mAh
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i7,6,,8 GB,,,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Używany,,HDD,Windows 8.1 Professional 64-bit,Intel Core i5,2,2.9 GHz,8 GB,DDR3,,320 GB,antyrefleksyjna,1366 x 768,,,
+Nowy,TN,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.7 GHz,4 GB,DDR3,,1000 GB,antyrefleksyjna,1920 x 1080,,2 kg,
+Nowy,VA,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR3,2133,256 GB,błyszcząca,1920 x 1080,,1.47 kg,
+Używany,TN,HDD,"Windows 7 Professional 32-bit, Windows 7 Professional 64-bit",Intel Core i7,2,3.6 GHz,4 GB,DDR3,,250 GB,matowa,1366 x 768,,,
+Nowy,TN,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Używany,,SSD,Windows 10 Professional,Intel Core i5,2,,8 GB,DDR3,,240 GB,matowa,1366 x 768,,,
+Nowy,VA,SSD + HDD,Windows 10 Home,Intel Core i5,2,3 GHz,8 GB,DDR4,2133,1256 GB,antyrefleksyjna,1920 x 1080,,,41 Wh
+Nowy,,eMMC,Windows 10 Home,Intel Pentium Quad-Core,4,,4 GB,DDR3,,32 GB,błyszcząca,1920 x 1080,Intel HD Graphics 500,1.34 kg,8000 mAh
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i7,2,3.6 GHz,8 GB,DDR3,,240 GB,matowa,1600 x 900,,2.2 kg,
+Nowy,,SSD,Windows 10 Home,Intel Core i3,2,,8 GB,,2133,256 GB,błyszcząca,1366 x 768,Intel HD Graphics 520,,
+Nowy,,SSD,Mac OS,Intel Core i7,6,4.1 GHz,16 GB,DDR3,2400,256 GB,błyszcząca,2880 x 1800,,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,3,4 GHz,8 GB,DDR4,,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i5,2,3.2 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,NVIDIA Quadro NVS 4200M,2.7 kg,
+Nowy,TN,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.56 GHz,4 GB,DDR3L,1600,256 GB,błyszcząca,1366 x 768,Intel HD Graphics 405,1.9 kg,33 Wh
+Nowy,,HDD,"Linux, brak systemu, inny",Intel Core i7,4,4 GHz,8 GB,DDR4,2133,1000 GB,antyrefleksyjna,1366 x 768,NVIDIA GeForce MX130,2.04 kg,41 mAh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,NVIDIA GeForce MX150,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,6,4.4 GHz,16 GB,DDR4,2666,256 GB,matowa,1920 x 1080,,1.6 kg,68 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2666,1512 GB,matowa,3840 x 2160,NVIDIA GeForce GTX 1060,2.81 kg,56 Wh
+Nowy,IPS,SSD,Windows 10 Home,AMD A12,4,3.6 GHz,8 GB,DDR4,,256 GB,błyszcząca,1366 x 768,AMD Radeon 530M,1.95 kg,41 mAh
+Nowy,,SSD,brak systemu,Intel Core i3,2,,8 GB,DDR3,1600,120 GB,matowa,1366 x 768,Intel HD Graphics 520,2.4 kg,3220 mAh
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i5,2,3.3 GHz,8 GB,DDR3,,120 GB,matowa,1366 x 768,,,
+Nowy,TN,SSD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,,256 GB,błyszcząca,1366 x 768,Intel HD Graphics 620,,36 Wh
+Nowy,TN,eMMC,inny,Intel Celeron,2,2.6 GHz,4 GB,DDR4,2400,64 GB,matowa,1366 x 768,,1.25 kg,4800 mAh
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,,,128 GB,matowa,1366 x 768,,,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,,
+Nowy,,eMMC,Windows 10 Home,Intel Celeron,2,,4 GB,,,32 GB,matowa,1366 x 768,,,
+Odnowiony przez producenta,TN,eMMC,Windows 10 Home,Intel Celeron Dual-Core,2,2.5 GHz,4 GB,DDR3L,,64 GB,błyszcząca,1920 x 1080,Intel HD Graphics 505,1.31 kg,
+Nowy,TN,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR3L,1600,240 GB,błyszcząca,1366 x 768,Intel HD Graphics 505,1.9 kg,33 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i3,2,,8 GB,DDR4,,1000 GB,matowa,1366 x 768,Intel HD Graphics 620,,40 Wh
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,4 GHz,16 GB,DDR3,1866,512 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.21 kg,52 Wh
+Nowy,TN,HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,4.42 kg,68 Wh
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i7,2,3.3 GHz,16 GB,,,256 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,,,512 GB,błyszcząca,3840 x 2160,NVIDIA GeForce MX150,,
+Nowy,TN,SSD,Windows 10 Home,Intel Core i3,2,,8 GB,DDR4,1600,240 GB,antyrefleksyjna,1920 x 1080,Intel HD Graphics 520,1.84 kg,
+Odnowiony przez producenta,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,,HDD,Windows 10 Home,Intel Core i7,4,3.5 GHz,8 GB,DDR4,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 950M,,
+Nowy,,SSD,Windows 10 Home,Intel Pentium Dual-Core,2,2.3 GHz,4 GB,DDR4,2133,128 GB,błyszcząca,1366 x 768,Intel HD Graphics 620,,
+Nowy,TN,SSD,Windows 10 Professional,Intel Pentium Quad-Core,2,2.5 GHz,4 GB,DDR3L,1600,128 GB,matowa,1366 x 768,Intel HD Graphics 505,1.39 kg,42 Wh
+Nowy,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,,4 GB,,,1000 GB,matowa,1920 x 1080,Intel HD Graphics 505,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.19 kg,60 Wh
+Używany,IPS,HDD,Windows 8.1 Professional 64-bit,Intel Core i7,4,,16 GB,DDR3,,750 GB,matowa,1920 x 1080,NVIDIA Quadro K3100M,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,512 GB,błyszcząca,3840 x 2160,NVIDIA GeForce GTX 1050 Ti Max-Q,1.8 kg,97 Wh
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i7,2,3.3 GHz,8 GB,DDR3L,,128 GB,matowa,1920 x 1080,Intel HD Graphics 4400,1.4 kg,34 Wh
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i5,4,,8 GB,DDR4,2133,240 GB,matowa,1920 x 1080,,,
+Używany,,HDD,"inny, Windows 7 Professional 64-bit",Intel Core 2 Duo,2,,4 GB,,,160 GB,matowa,1280 x 800,,,
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,,256 GB,matowa,1920 x 1080,,,
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i5,2,2.8 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Używany,TN,SSD,"Windows 10 Home, Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i5,2,2.6 GHz,8 GB,DDR3,,256 GB,matowa,1366 x 768,Intel HD Graphics 4400,1.4 kg,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i7,2,3.3 GHz,8 GB,DDR3,,256 GB,matowa,1920 x 1080,,,
+Używany,,SSD,Windows 10 Professional,Intel Core i7,4,3.7 GHz,8 GB,DDR3,,240 GB,matowa,1920 x 1080,,2.69 kg,
+Nowy,IPS,SSD,Mac OS,Intel Core i5,4,3.8 GHz,16 GB,DDR3L,2133,256 GB,błyszcząca,2560 x 1600,Intel Iris Plus Graphics 655,1.37 kg,58 Wh
+Nowy,,HDD,Windows 10 Home,Intel Celeron Dual-Core,2,2.4 GHz,8 GB,DDR3,,1000 GB,matowa,1366 x 768,Intel HD Graphics 500,,
+Nowy,TN,SSD + HDD,brak systemu,Intel Core i7,6,,8 GB,,,1120 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Powystawowy,,SSD,Windows 10 Home,Intel Core i3,2,2 GHz,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,,2.2 kg,3500 mAh
+Nowy,TN,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1120 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Nowy,,SSD,Mac OS,Intel Core i5,2,3.6 GHz,8 GB,DDR3,2133,128 GB,błyszcząca,2560 x 1600,,,
+Nowy,TN,SSD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2133,240 GB,matowa,1920 x 1080,Intel HD Graphics 620,2.3 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2666,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,2.81 kg,56 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i7,2,3.5 GHz,8 GB,DDR4,,1000 GB,matowa,1920 x 1080,AMD Radeon R7 M445,2.83 kg,42 Wh
+Odnowiony przez producenta,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,,,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,2400,512 GB,błyszcząca,1920 x 1080,,2.8 kg,3500 mAh
+Nowy,TN,eMMC,inny,Intel Celeron Dual-Core,2,2.4 GHz,4 GB,DDR4,2400,32 GB,matowa,1920 x 1080,Intel HD Graphics 500,1.44 kg,
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,3 GHz,4 GB,DDR3L,,500 GB,matowa,1366 x 768,Intel HD Graphics 4400,1.4 kg,
+Odnowiony przez producenta,,SSD + HDD,Windows 10 Home,Intel Core i3,2,,8 GB,DDR4,2133,1128 GB,matowa,1920 x 1080,,,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,8 GB,,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,,
+Używany,TN,HDD,"Windows 10 Professional, Windows 7 Professional 64-bit, Windows 10 Home",Intel Core i7,2,3.4 GHz,8 GB,DDR3,,500 GB,matowa,1366 x 768,Intel HD Graphics 3000,3 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.33 kg,3500 mAh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1512 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1070,3.78 kg,86 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,2666,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.81 kg,56 Wh
+Nowy,TN,SSD,Windows 10 Home,AMD A6,2,2.9 GHz,8 GB,DDR4,2133,120 GB,matowa,1920 x 1080,,2.2 kg,4000 mAh
+Nowy,,eMMC + HDD,Windows 10 Home,Inny procesor,4,1.92 GHz,4 GB,DDR3,,532 GB,błyszcząca,1920 x 1080,Intel HD Graphics 500,1.7 kg,10000 mAh
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Home 64-bit, Windows 8.1 Professional 64-bit",Intel Core i5,2,3.3 GHz,8 GB,DDR3,,120 GB,matowa,1600 x 900,Intel HD Graphics 4000,2.2 kg,
+Nowy,VA,HDD,Windows 10 Home,Intel Celeron Dual-Core,2,2.4 GHz,4 GB,DDR4,2133,1000 GB,matowa,1366 x 768,Intel HD Graphics 500,1.9 kg,31 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,8 GB,DDR4,2666,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.33 kg,56 Wh
+Używany,TN,SSD,"Windows 10 Professional, Windows 8.1 Professional 64-bit, Windows 7 Home 64-bit",Intel Core i5,2,3.3 GHz,16 GB,DDR3,,240 GB,matowa,1366 x 768,Intel HD Graphics 4600,2.6 kg,
+Nowy,TN,SSD,Windows 10 Professional,Intel Core i3,2,,4 GB,,,120 GB,antyrefleksyjna,1920 x 1080,Intel HD Graphics 520,1.9 kg,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Professional,Intel Core i5,4,3.5 GHz,16 GB,DDR4,,256 GB,matowa,1920 x 1080,,,
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3 GHz,4 GB,DDR3L,,256 GB,matowa,1366 x 768,Intel HD Graphics 4400,1.68 kg,47 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core 2 Duo,2,2.4 GHz,8 GB,DDR3,1600,256 GB,matowa,1366 x 768,,1.9 kg,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,4,3.8 GHz,16 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,2.21 kg,68 Wh
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1500 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,,
+Nowy,,HDD,Windows 10 Home,AMD A6,2,2.9 GHz,8 GB,DDR4,1866,1000 GB,matowa,1366 x 768,,2.1 kg,41 Wh
+Nowy,,SSD,Mac OS,Intel Core i5,2,2.9 GHz,8 GB,DDR3,1600,256 GB,błyszcząca,1440 x 900,Intel HD Graphics 6000,1.35 kg,54 Wh
+Powystawowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,8 GB,DDR4,2400,1240 GB,matowa,3840 x 2160,NVIDIA GeForce GTX 1060,3.2 kg,
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.43 kg,3653 mAh
+Nowy,,HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,4 GB,DDR4,2400,1000 GB,antyrefleksyjna,1366 x 768,Intel HD Graphics 620,2.1 kg,41 Wh
+Nowy,,SSD,Windows 10 Professional,Intel Core i7,4,4 GHz,16 GB,DDR3,1866,512 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,1.3 kg,4335 mAh
+Używany,IPS,SSD,Windows 10 Professional,Intel Core i7,2,3.2 GHz,8 GB,DDR3L,,240 GB,matowa,2560 x 1440,Intel HD Graphics 5500,1.4 kg,
+Używany,TN,SSD,"Windows 8.1 Professional 32-bit, Windows 8.1 Professional 64-bit, Windows 10 Professional",Intel Core i3,2,,8 GB,DDR3,,128 GB,matowa,1366 x 768,Intel HD Graphics 4400,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,,,225 GB,matowa,1600 x 900,,,
+Używany,TN,SSD + HDD,"Windows 7 Home 64-bit, Windows 7 Professional 64-bit, Windows 8.1 Home 64-bit, Windows 8.1 Home 32-bit, Windows 7 Professional 32-bit, Windows 10 Home, Windows 10 Professional, Windows 8.1 Professional 32-bit, Windows 8.1 Professional 64-bit",Intel Core i7,4,3.3 GHz,8 GB,DDR3,,878 GB,matowa,1366 x 768,,2.65 kg,
+Używany,IPS,SSD,Windows 10 Professional,Intel Core i7,2,3.2 GHz,8 GB,DDR3L,1600,256 GB,matowa,1920 x 1080,Intel HD Graphics 5500,,
+Powystawowy,,HDD,Windows 10 Home,Intel Pentium Dual-Core,2,,8 GB,DDR3,,1000 GB,błyszcząca,1366 x 768,,2.3 kg,
+Nowy,,HDD,brak systemu,Intel Core i3,2,3.4 GHz,4 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,,1.62 kg,3727 mAh
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,antyrefleksyjna,1920 x 1080,Intel HD Graphics 620,,45 Wh
+Nowy,TN,HDD,Windows 10 Home,AMD A6,2,2.9 GHz,8 GB,DDR4,2133,1000 GB,matowa,1600 x 900,,2.41 kg,30 Wh
+Nowy,IPS,SSD,Mac OS,Intel Core i5,2,,8 GB,DDR3L,,128 GB,błyszcząca,2560 x 1600,,1.37 kg,54 Wh
+Nowy,VA,SSD + HDD,Windows 10 Home,Intel Core i5,2,3 GHz,8 GB,DDR4,2133,1256 GB,antyrefleksyjna,1920 x 1080,,2 kg,41 Wh
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2133,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,3 kg,48 Wh
+Nowy,,SSD,Mac OS,Intel Core i5,2,2.9 GHz,8 GB,DDR3,1600,128 GB,błyszcząca,1440 x 900,Intel HD Graphics 6000,1.35 kg,
+Nowy,TN,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.7 GHz,4 GB,DDR4,,500 GB,matowa,1366 x 768,,2.21 kg,40 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,32 GB,DDR4,2666,1512 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1070,2.53 kg,70 mAh
+Nowy,IPS,SSD,Mac OS,Intel Core i7,6,4.4 GHz,16 GB,DDR4,2400,512 GB,błyszcząca,2880 x 1800,AMD Radeon Pro 555X,1.83 kg,83.6 Wh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Professional,Intel Core i5,2,2.9 GHz,12 GB,DDR3,1600,256 GB,matowa,1920 x 1080,,,
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.54 kg,3727 mAh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,,16 GB,DDR4,2666,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060 Max-Q,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.63 kg,41 Wh
+Nowy,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.56 GHz,4 GB,DDR3,1600,1000 GB,błyszcząca,1366 x 768,,,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1120 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,,
+Nowy,IPS,Hybrydowy,Windows 10 Home,Intel Core i7,6,4.1 GHz,8 GB,DDR4,2666,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.31 kg,4240 mAh
+Nowy,VA,HDD,Windows 10 Home,Intel Celeron Dual-Core,2,2 GHz,4 GB,DDR3L,1600,500 GB,błyszcząca antyrefleksyjna,1366 x 768,Intel HD Graphics 400,,31 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,2666,256 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.22 kg,52 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,2666,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.33 kg,56 Wh
+Odnowiony przez producenta,,HDD,Windows 10 Home,Intel Celeron,2,2.16 GHz,4 GB,DDR4,2133,500 GB,błyszcząca,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,2,3.6 GHz,8 GB,DDR3,1866,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 615,1.24 kg,46 Wh
+Po zwrocie,,HDD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,,1000 GB,błyszcząca,1600 x 900,,,
+Nowy,,SSD,Windows 10 Professional,Intel Core i7,4,4 GHz,16 GB,DDR4,2133,512 GB,matowa,1920 x 1080,,1.02 kg,
+Nowy,TN,SSD,Windows 10 Professional,Intel Core i5,2,3 GHz,8 GB,DDR4,,256 GB,matowa,1366 x 768,Intel HD Graphics 520,1.6 kg,
+Po zwrocie,IPS,SSD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR3L,1866,512 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,,
+Odnowiony przez producenta,,SSD,Windows 10 Home,Intel Core i7,2,3.5 GHz,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,,,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,,512 GB,błyszcząca,3840 x 2160,NVIDIA GeForce MX150,,
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Professional 64-bit, Windows 10 Home",Intel Core i7,4,3.7 GHz,16 GB,DDR3,,240 GB,matowa,1920 x 1080,,3 kg,
+Nowy,TN,SSD,brak systemu,Intel Core i3,2,3.4 GHz,4 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.58 kg,3727 mAh
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,51 Wh
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,,1128 GB,matowa,1920 x 1080,,,
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,,8 GB,DDR3,1866,256 GB,matowa,1920 x 1080,,,
+Nowy,TN,SSD,Windows 10 Professional,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,2.18 kg,42 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,8 GB,DDR4,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,52.5 Wh
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i7,2,,8 GB,DDR3,,240 GB,matowa,1920 x 1080,,,
+Nowy,,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR3,,256 GB,błyszcząca,1366 x 768,,,
+Używany,TN,SSD,"Windows 10 Professional, Windows 10 Home, Windows 7 Home 64-bit",Intel Core i5,2,2.6 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,,1.7 kg,
+Używany,,SSD,Windows 10 Professional,Intel Core i7,4,3.7 GHz,16 GB,DDR3,,480 GB,matowa,1920 x 1080,,2.69 kg,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,4 GB,DDR3,,320 GB,matowa,1366 x 768,,,
+Używany,IPS,SSD,Windows 10 Professional,Intel Core m,2,2 GHz,4 GB,DDR3L,,120 GB,błyszcząca antyrefleksyjna,1920 x 1080,Intel HD Graphics 5300,,
+Nowy,,HDD,Windows 10 Home,AMD A6,4,2.4 GHz,8 GB,DDR3L,1600,500 GB,błyszcząca,1366 x 768,,2 kg,
+Nowy,IPS,HDD,brak systemu,Intel Core i5,4,4 GHz,8 GB,DDR4,2666,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.7 kg,4240 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,NVIDIA GeForce MX150,1.3 kg,
+Nowy,,eMMC,Windows 10 Home,Intel Celeron,2,2.4 GHz,4 GB,,,64 GB,matowa,1366 x 768,,,4810 mAh
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i3,2,,4 GB,DDR3,1333,160 GB,matowa,1366 x 768,,2.37 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,2400,1128 GB,błyszcząca,1920 x 1080,NVIDIA GeForce GT 940MX,1.63 kg,41 Wh
+Powystawowy,,SSD,Windows 10 Home,Intel Core i7,2,3.5 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,AMD Radeon R7 M445,,
+Nowy,VA,HDD,brak systemu,Intel Celeron Quad Core,2,2.4 GHz,4 GB,DDR4,2133,1000 GB,matowa,1366 x 768,Intel HD Graphics 500,1.85 kg,31 Wh
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,2.9 GHz,4 GB,DDR3L,1600,320 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,4.2 GHz,16 GB,DDR4,2400,512 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.4 kg,60 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Odnowiony przez producenta,,HDD,Windows 10 Home,Intel Core i7,2,3.5 GHz,16 GB,DDR4,,1000 GB,błyszcząca,1920 x 1080,AMD Radeon R7 M445,2.35 kg,42 Wh
+Odnowiony przez producenta,,SSD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,,256 GB,matowa,1600 x 900,Intel HD Graphics 620,,
+Nowy,IPS,HDD,Windows 10 Home,AMD Ryzen 5,4,,8 GB,DDR4,,1000 GB,błyszcząca,1920 x 1080,,,
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Home 64-bit, Windows 8.1 Professional 64-bit",Intel Core i5,2,3.3 GHz,8 GB,DDR3,,240 GB,matowa,1600 x 900,Intel HD Graphics 4000,2.2 kg,
+Powystawowy,,SSD + HDD,Windows 10 Home,Inny procesor,8,3.7 GHz,16 GB,DDR4,2400,1240 GB,matowa,1920 x 1080,,3.2 kg,4800 mAh
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i7,2,3.1 GHz,8 GB,DDR3L,,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 4400,1.52 kg,55 Wh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Nowy,TN,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.4 GHz,8 GB,DDR4,2400,2128 GB,matowa,1920 x 1080,,2.18 kg,42 Wh
+Nowy,IPS,Brak,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,,0 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,3.9 GHz,16 GB,DDR4,2400,512 GB,błyszcząca,1920 x 1080,NVIDIA GeForce 940MX,1.9 kg,68 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,,256 GB,błyszcząca,2160 x 1440,,1.06 kg,5449 mAh
+Nowy,TN,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR3,1600,500 GB,matowa,1366 x 768,Intel HD Graphics 505,2 kg,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,,,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Powystawowy,,HDD,Windows 10 Home,AMD A6,2,2.9 GHz,4 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,DDR3,,120 GB,matowa,1600 x 900,,,
+Nowy,,SSD,Windows 10 Home,Intel Core i3,2,,4 GB,,,240 GB,matowa,1920 x 1080,,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1240 GB,matowa,1920 x 1080,NVIDIA GeForce MX130,2.22 kg,3653 mAh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Professional,Intel Core i5,2,3.1 GHz,8 GB,DDR3L,1866,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,,
+Odnowiony przez producenta,IPS,HDD,Windows 10 Home,Intel Core i7,4,4 GHz,12 GB,DDR4,2133,1000 GB,błyszcząca,1920 x 1080,,,41 Wh
+Nowy,TN,HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,Intel HD Graphics 620,2.18 kg,42 Wh
+Używany,,HDD,Windows 8.1 Professional 64-bit,Intel Core i5,2,2.9 GHz,4 GB,DDR3,,320 GB,antyrefleksyjna,1366 x 768,,,
+Nowy,IPS,Hybrydowy,Windows 10 Home,Intel Core i3,2,2.4 GHz,4 GB,DDR4,2133,1000 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.72 kg,41 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,,256 GB,błyszcząca,1920 x 1080,,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,3,3.8 GHz,8 GB,DDR4,2400,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.56 kg,
+Używany,TN,SSD + HDD,Windows 7 Professional 64-bit,Intel Core i7,4,3.8 GHz,32 GB,DDR3L,,1256 GB,matowa,1920 x 1080,NVIDIA Quadro K3100M,3.6 kg,97 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.8 GHz,32 GB,DDR4,2400,1024 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050 Ti Max-Q,1.8 kg,56 Wh
+Używany,TN,HDD,Windows 7 Professional 64-bit,AMD A8,4,3.1 GHz,4 GB,DDR3,,320 GB,matowa,1366 x 768,,,
+Nowy,TN,eMMC,Windows 10 Home,Intel Celeron,2,2.4 GHz,2 GB,DDR3,1600,32 GB,błyszcząca,1366 x 768,Intel HD Graphics 500,1.35 kg,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,8 GB,,,1120 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,,1250 GB,matowa,1920 x 1080,,,
+Używany,TN,SSD,Windows 10 Professional,AMD A8,4,3.1 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.5 GHz,16 GB,DDR4,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce 940M,,
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3 GHz,8 GB,DDR3L,,256 GB,matowa,1366 x 768,Intel HD Graphics 4400,1.68 kg,47 Wh
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,2,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.67 kg,42 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,2.06 kg,55.8 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i7,4,,8 GB,DDR4,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Używany,,SSD,Windows 10 Home,Intel Core i5,2,,8 GB,DDR3,,256 GB,matowa,1366 x 768,,3 kg,
+Nowy,IPS,HDD,brak systemu,Intel Core i7,6,4.1 GHz,8 GB,DDR4,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.96 kg,4940 mAh
+Nowy,,SSD,Windows 10 Professional,Intel Core i7,4,4 GHz,16 GB,DDR3,1866,512 GB,błyszcząca,3200 x 1800,,,
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i7,4,,16 GB,,,240 GB,matowa,1920 x 1080,,,
+Używany,TN,HDD,"Windows 7 Professional 64-bit, Windows 7 Professional 32-bit",Intel Core i5,2,3.2 GHz,4 GB,DDR3,,320 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,2,3.3 GHz,8 GB,DDR3,1866,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 615,1.24 kg,46 Wh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,,1024 GB,błyszcząca,3840 x 2160,,,
+Nowy,,SSD,brak systemu,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,1.53 kg,3727 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,2400,512 GB,błyszcząca,3840 x 2160,NVIDIA GeForce GT 940MX,2 kg,3500 mAh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Professional,Intel Core i5,2,3.1 GHz,8 GB,DDR3L,,256 GB,błyszcząca,1920 x 1280,,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,2,3.4 GHz,8 GB,DDR4,2133,512 GB,matowa,1920 x 1080,Intel HD Graphics 520,1.18 kg,60 Wh
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core i7,4,3.7 GHz,16 GB,DDR3L,,1000 GB,matowa,1920 x 1080,NVIDIA Quadro K3100M,3.6 kg,
+Używany,,HDD,Windows 10 Professional,Intel Core i7,4,3.1 GHz,8 GB,DDR3,,1000 GB,błyszcząca,1366 x 768,,,
+Nowy,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.56 GHz,4 GB,DDR3,1600,500 GB,błyszcząca,1366 x 768,,,
+Nowy,TN,SSD,Windows 10 Home,Intel Core i7,4,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,2.18 kg,42 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,2666,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.95 kg,56 Wh
+Nowy,,eMMC,Windows 10 Home,Inny procesor,4,1.9 GHz,4 GB,DDR3,,32 GB,błyszcząca,1920 x 1080,,1 kg,8000 mAh
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Professional 64-bit, Windows 10 Home",Intel Core i5,2,3.3 GHz,16 GB,DDR3,,240 GB,matowa,1920 x 1080,Intel HD Graphics 4400,3 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.9 GHz,16 GB,DDR4,2400,1128 GB,matowa,3840 x 2160,NVIDIA GeForce GTX 1080,4.42 kg,99 Wh
+Nowy,,eMMC + HDD,Windows 10 Home,Intel Celeron Dual-Core,2,2.4 GHz,4 GB,DDR3,1600,532 GB,matowa,1920 x 1080,Intel HD Graphics 500,1.99 kg,10000 mAh
+Używany,IPS,SSD,"Windows 8.1 Professional 64-bit, Windows 10 Professional",Intel Core i7,2,3.3 GHz,4 GB,DDR3L,,240 GB,matowa,1920 x 1080,Intel HD Graphics 4400,1.7 kg,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,2400,512 GB,błyszcząca,1920 x 1080,NVIDIA GeForce MX150,2.9 kg,55 mAh
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,4 GB,DDR3,,250 GB,matowa,1600 x 900,,,
+Nowy,,HDD,Windows 10 Home,Intel Celeron Dual-Core,2,1.5 GHz,4 GB,DDR3,1600,500 GB,matowa,1366 x 768,Intel HD Graphics 400,3 kg,
+Używany,IPS,SSD,Windows 10 Professional,Intel Core i7,2,3.2 GHz,8 GB,DDR3L,1600,512 GB,matowa,1920 x 1080,Intel HD Graphics 5500,,
+Używany,,HDD,Windows 8.1 Professional 64-bit,Intel Core i7,2,,4 GB,DDR3,,320 GB,matowa,1920 x 1080,,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3.5 GHz,8 GB,DDR3,,240 GB,matowa,1920 x 1080,,,
+Nowy,TN,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.4 GHz,16 GB,DDR4,2400,2256 GB,matowa,1920 x 1080,,2.18 kg,42 Wh
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,DDR3,,500 GB,matowa,1600 x 900,,,
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i5,2,2.9 GHz,4 GB,DDR3,,128 GB,matowa,1366 x 768,,,
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core i3,2,,4 GB,DDR3,,160 GB,antyrefleksyjna,1280 x 800,,,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,4 GHz,16 GB,DDR3,1866,512 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.21 kg,52 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.63 kg,41 Wh
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i5,2,3.2 GHz,8 GB,DDR3,,120 GB,matowa,1366 x 768,Intel HD Graphics 3000,2.2 kg,
+Nowy,,SSD,Windows 10 Professional,Intel Core i7,4,4 GHz,16 GB,,,512 GB,błyszcząca,Inna,NVIDIA GeForce MX150,1.33 kg,
+Nowy,IPS,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.7 GHz,4 GB,DDR4,2400,500 GB,błyszcząca,1366 x 768,,1.3 kg,3640 mAh
+Nowy,,SSD,Windows 10 Professional,Intel Core i7,6,4.1 GHz,16 GB,DDR4,,512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,1.83 kg,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,4.2 GHz,16 GB,DDR4,2400,512 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.4 kg,60 Wh
+Używany,TN,HDD,"Windows 7 Professional 32-bit, Windows 7 Professional 64-bit",Intel Core i5,2,3.3 GHz,4 GB,DDR3,,320 GB,matowa,1366 x 768,,,
+Nowy,,SSD,Windows 10 Home,Intel Core i3,2,2.7 GHz,4 GB,DDR4,2133,128 GB,błyszcząca,1366 x 768,Intel HD Graphics 620,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Pentium Dual-Core,2,,4 GB,DDR3,1600,128 GB,błyszcząca,1920 x 1080,,2.2 kg,30 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i5,3,4 GHz,8 GB,DDR4,2400,2000 GB,matowa,1920 x 1080,,2.2 kg,
+Nowy,,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,32 GB,DDR4,2400,1024 GB,błyszcząca,3840 x 2160,NVIDIA GeForce GTX 1050Ti,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060 Max-Q,2.61 kg,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,8 GB,,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,,
+Odnowiony przez producenta,IPS,SSD,Windows 8.1 Professional 64-bit,Intel Core i5,2,2.9 GHz,8 GB,DDR4,,256 GB,matowa,1920 x 1080,Intel HD Graphics 5500,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050 Ti Max-Q,1.8 kg,97 Wh
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i7,4,,16 GB,DDR3,,240 GB,matowa,1920 x 1080,,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,4 GHz,12 GB,DDR4,,1000 GB,błyszcząca,1920 x 1080,,,42 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3,2133,512 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,1.27 kg,4335 mAh
+Nowy,,Brak,Mac OS,Inny procesor,nie dotyczy,,brak,,,0 GB,błyszcząca antyrefleksyjna,Inna,,,
+Nowy,,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.7 GHz,8 GB,DDR4,2400,256 GB,matowa,1366 x 768,,,
+Używany,IPS,SSD,Windows 10 Professional,Intel Core i5,2,2.7 GHz,4 GB,DDR3,1600,128 GB,błyszcząca,1920 x 1080,Intel HD Graphics 4000,1.3 kg,
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i5,2,3.2 GHz,8 GB,DDR3,,120 GB,matowa,1366 x 768,Intel HD Graphics 4400,2.2 kg,
+Nowy,,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,,1256 GB,błyszcząca,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,,,256 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,50 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i5,4,,8 GB,,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,2.2 kg,
+Używany,TN,HDD,"Windows 10 Professional, Windows 8.1 Professional 64-bit, Windows 7 Home 64-bit",Intel Core i5,2,3.3 GHz,8 GB,DDR3,,500 GB,matowa,1366 x 768,Intel HD Graphics 4600,2.6 kg,
+Odnowiony przez sprzedawcę,TN,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,4 GB,DDR3,,320 GB,matowa,1366 x 768,,1.8 kg,
+Nowy,,SSD,Windows 10 Professional,Intel Core i7,4,4 GHz,16 GB,,,1000 GB,matowa,2560 x 1440,,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,4,3.6 GHz,8 GB,DDR3,1866,512 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.42 kg,45 Wh
+Nowy,,HDD,Windows 10 Home,Intel Celeron,2,2.6 GHz,4 GB,DDR4,2400,500 GB,matowa,1920 x 1080,,2 kg,3070 mAh
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,2,3.5 GHz,8 GB,DDR4,2133,128 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.36 kg,60 Wh
+Nowy,,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR3,,120 GB,błyszcząca,1366 x 768,,,
+Nowy,TN,HDD,brak systemu,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR3,1600,500 GB,matowa,1366 x 768,Intel HD Graphics 505,2 kg,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,2.3 kg,3500 mAh
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.2 GHz,16 GB,DDR4,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 950M,,45 Wh
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core i7,2,3.6 GHz,4 GB,DDR3L,,320 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,2.65 kg,56 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,1000 GB,matowa,1600 x 900,,,
+Używany,TN,SSD,Windows 10 Professional,Intel Core i5,2,3.3 GHz,8 GB,,,240 GB,matowa,1366 x 768,Intel HD Graphics 3000,2 kg,
+Nowy,TN,SSD,Windows 10 Home,Intel Core i7,2,3.5 GHz,8 GB,DDR4,2133,240 GB,matowa,1920 x 1080,NVIDIA GeForce GT 940M,2.3 kg,
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,4 GB,DDR3,,320 GB,antyrefleksyjna,1366 x 768,,,
+Nowy,,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.56 GHz,4 GB,DDR3,1600,240 GB,błyszcząca,1366 x 768,,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3.2 GHz,8 GB,DDR3,,240 GB,matowa,1920 x 1080,,,
+Nowy,,eMMC,Windows 10 Home,Intel Celeron Quad Core,4,2.25 GHz,4 GB,DDR3,1600,64 GB,błyszcząca,1920 x 1080,Intel HD Graphics 400,,
+Używany,,HDD,Windows 10 Home,Intel Core 2 Duo,2,,4 GB,,,320 GB,matowa,Inna,,3 kg,
+Używany,,HDD,brak systemu,Intel Core i5,2,2.9 GHz,4 GB,DDR3,,500 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,500 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,3.1 kg,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,2,3.4 GHz,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,Intel HD Graphics 520,1.18 kg,60 Wh
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core i7,4,3.8 GHz,8 GB,DDR3L,,500 GB,matowa,1920 x 1080,NVIDIA Quadro K3100M,3.6 kg,97 Wh
+Powystawowy,,SSD,Windows 10 Home,AMD A6,4,2.4 GHz,8 GB,DDR3L,,120 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,4.2 GHz,16 GB,DDR4,2400,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.19 kg,42 Wh
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,DDR3,,240 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,2.96 kg,3220 mAh
+Nowy,TN,SSD,Windows 10 Home,Intel Core i3,2,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.55 kg,3727 mAh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,16 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,NVIDIA GeForce MX150,,
+Nowy,TN,HDD,Windows 10 Home,Intel Core i7,2,3.5 GHz,8 GB,DDR4,2133,1000 GB,matowa,1920 x 1080,AMD Radeon R7 M445,3.1 kg,3500 mAh
+Używany,,HDD,"Windows 7 Professional 64-bit, Windows 8.1 Professional 64-bit",Intel Core i5,2,,4 GB,,,320 GB,matowa,1366 x 768,,,
+Nowy,,HDD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2400,1000 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 950M,2.2 kg,61.5 Wh
+Nowy,,SSD,Windows 10 Professional,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,512 GB,błyszcząca antyrefleksyjna,3840 x 2160,NVIDIA GeForce GTX 1050Ti,,
+Nowy,,HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce MX130,2.22 kg,3653 mAh
+Odnowiony przez producenta,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR3,1866,500 GB,matowa,1366 x 768,Intel HD Graphics 505,,
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i5,2,3.2 GHz,4 GB,DDR3,,120 GB,matowa,1366 x 768,Intel HD Graphics 3000,1.5 kg,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,DDR3,,500 GB,matowa,1366 x 768,,,
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4.1 GHz,16 GB,DDR4,2400,512 GB,antyrefleksyjna,1920 x 1080,,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,DDR3,,240 GB,matowa,1600 x 900,,,
+Nowy,TN,SSD,brak systemu,Intel Core i3,2,3.4 GHz,4 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.55 kg,3727 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,TN,HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,,1.62 kg,3727 mAh
+Odnowiony przez producenta,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,2,3.5 GHz,16 GB,DDR4,,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,,60 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,2,3.1 GHz,4 GB,DDR3,1600,256 GB,matowa,1920 x 1080,Intel HD Graphics 520,1.1 kg,8800 mAh
+Nowy,,SSD,Windows 10 Home,Intel Core i5,2,3.1 GHz,6 GB,DDR4,2133,256 GB,matowa,1920 x 1080,AMD Radeon R5 M430,1.96 kg,41 Wh
+Nowy,TN,HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.7 kg,74 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4.1 GHz,16 GB,DDR4,2400,512 GB,błyszcząca,3840 x 2160,,2.09 kg,84 Wh
+Nowy,TN,SSD + HDD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,2133,1128 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,2.33 kg,42 Wh
+Nowy,,SSD + HDD,Windows 10 Home,AMD A12,4,3.6 GHz,8 GB,DDR4,2133,1128 GB,matowa,1920 x 1080,,2.1 kg,41 Wh
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,4,3.6 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.4 kg,60 Wh
+Nowy,,HDD,Windows 10 Home,AMD A9,2,3.6 GHz,8 GB,DDR4,2400,1000 GB,błyszcząca,1366 x 768,,2.1 kg,41 Wh
+Nowy,TN,SSD,brak systemu,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce MX130,1.95 kg,
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Professional 32-bit, Windows 10 Home",Intel Core i5,2,2.6 GHz,16 GB,DDR3,,256 GB,matowa,1920 x 1080,Intel HD Graphics 4400,1.8 kg,
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,,8 GB,DDR3,1866,256 GB,matowa,1920 x 1080,,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,,,240 GB,matowa,1600 x 900,,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,,1016 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.7 kg,
+Używany,,HDD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i3,2,,4 GB,,,500 GB,matowa,1280 x 800,,,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,,512 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,32 GB,DDR4,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1070,2.85 kg,4940 mAh
+Używany,,SSD,Windows 10 Professional,Intel Core i5,2,3.4 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3.3 GHz,8 GB,DDR3,,240 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,4,3.4 GHz,8 GB,DDR3,,128 GB,błyszcząca,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Home,AMD A6,2,3 GHz,8 GB,DDR4,1866,256 GB,antyrefleksyjna,1920 x 1080,,1.46 kg,41 mAh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3,2133,512 GB,matowa,1920 x 1080,,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,,,240 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,2400,512 GB,błyszcząca,1920 x 1080,NVIDIA GeForce GT 940MX,2 kg,3500 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2133,128 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.63 kg,41 Wh
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,3 GHz,8 GB,DDR3L,,499 GB,matowa,1600 x 900,Intel HD Graphics 4400,1.78 kg,90 Wh
+Odnowiony przez producenta,,SSD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,,
+Odnowiony przez producenta,,HDD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR4,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,41 Wh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,3.5 GHz,16 GB,DDR4,,512 GB,błyszcząca,1920 x 1080,NVIDIA GeForce GT 940MX,,
+Używany,,SSD,"Windows 10 Home, Windows 10 Professional",Intel Core i5,2,2.9 GHz,8 GB,DDR3L,,120 GB,matowa,1366 x 768,,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i7,2,2.93 GHz,4 GB,DDR3,,160 GB,matowa,1280 x 800,,,
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,8 GB,DDR4,2666,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,2.57 kg,3220 mAh
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.05 kg,97 Wh
+Powystawowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Używany,TN,SSD,"Windows 10 Professional, Windows 8.1 Professional 64-bit, Windows 7 Home 64-bit",Intel Core i5,2,2.9 GHz,8 GB,DDR3,,256 GB,matowa,1366 x 768,Intel HD Graphics 5500,1.4 kg,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,3.8 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.05 kg,56 Wh
+Odnowiony przez producenta,,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,8 GB,DDR4,2133,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR4,2400,1120 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.4 kg,45 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1128 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.62 kg,70 Wh
+Nowy,,SSD,Windows 10 Professional,Intel Core i7,6,4.2 GHz,16 GB,DDR3,2133,512 GB,błyszcząca,1920 x 1080,Intel UHD Graphics 630,,
+Nowy,TN,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.4 GHz,16 GB,DDR4,2400,2256 GB,matowa,1920 x 1080,,2.18 kg,42 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,2400,512 GB,matowa,1920 x 1080,,1.34 kg,4211 mAh
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,2,3.4 GHz,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,Intel HD Graphics 520,1.5 kg,55 Wh
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i7,2,,4 GB,,,160 GB,matowa,1280 x 800,,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,4,3.4 GHz,8 GB,DDR3,1866,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.42 kg,45 Wh
+Nowy,IPS,SSD,Mac OS,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,512 GB,błyszcząca,2880 x 1800,AMD Radeon Pro 555X,1.83 kg,83.6 Wh
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i5,2,,8 GB,,,240 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3L,2133,1024 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.29 kg,60 mAh
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,,256 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3L,2133,512 GB,błyszcząca,1920 x 1080,,1.29 kg,60 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR3L,,256 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,2800 mAh
+Nowy,TN,SSD,Windows 10 Professional,Intel Core i3,2,2 GHz,8 GB,DDR4,,240 GB,matowa,1366 x 768,Intel HD Graphics 520,1.9 kg,32 Wh
+Nowy,TN,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR3,1600,500 GB,matowa,1366 x 768,Intel HD Graphics 505,2 kg,3070 mAh
+Po zwrocie,,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR4,2400,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2 kg,4160 mAh
+Odnowiony przez producenta,IPS,SSD,Windows 8.1 Professional 64-bit,Intel Core i5,2,2.9 GHz,16 GB,DDR4,,256 GB,matowa,1920 x 1080,Intel HD Graphics 5500,,
+Używany,IPS,SSD,Windows 10 Professional,Intel Core i7,2,3.2 GHz,4 GB,DDR3L,1600,256 GB,matowa,1920 x 1080,Intel HD Graphics 5500,,
+Nowy,,HDD,brak systemu,Intel Celeron,2,2.6 GHz,4 GB,DDR4,2400,500 GB,matowa,1920 x 1080,,2 kg,3070 mAh
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,DDR3L,,320 GB,matowa,1920 x 1080,,,
+Nowy,,eMMC,Windows 10 Home,Intel Celeron Dual-Core,2,2.48 GHz,2 GB,,,32 GB,błyszcząca,1366 x 768,Intel HD Graphics 400,,
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Professional 64-bit, Windows 10 Home",Intel Core i5,2,2.8 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,Intel HD Graphics 4000,1.7 kg,
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,256 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,3.9 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.9 kg,51 Wh
+Używany,IPS,SSD,Windows 10 Professional,Intel Core i7,2,3.1 GHz,8 GB,DDR3L,,256 GB,matowa,1920 x 1080,,,
+Odnowiony przez producenta,,SSD,Windows 10 Professional,Intel Core i5,2,2.9 GHz,16 GB,DDR4,,512 GB,matowa,1366 x 768,Intel HD Graphics 5500,,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Professional,Intel Core i5,2,3.5 GHz,8 GB,DDR3L,,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,,60 Wh
+Odnowiony przez producenta,,SSD,Windows 7 Professional 64-bit,Intel Core i7,4,3.8 GHz,16 GB,DDR3L,,256 GB,matowa,1920 x 1080,NVIDIA Quadro K2100M,,97 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i3,2,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.33 kg,3653 mAh
+Nowy,TN,HDD,Windows 10 Home,Intel Core i3,2,3.4 GHz,4 GB,DDR4,,1000 GB,matowa,1366 x 768,,2.2 kg,30 Wh
+Nowy,TN,HDD,brak systemu,Intel Pentium Dual-Core,2,2.1 GHz,4 GB,DDR4,2400,1000 GB,matowa,1366 x 768,Intel HD Graphics 510,1.95 kg,3070 mAh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,2400,1128 GB,matowa,1920 x 1080,,2.45 kg,42 Wh
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,2,3.9 GHz,16 GB,DDR4,2133,512 GB,błyszcząca,2560 x 1440,Intel HD Graphics 620,1.36 kg,60 Wh
+Odnowiony przez producenta,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.5 GHz,16 GB,DDR4,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1070,,
+Używany,,SSD,Windows 10 Home,Intel Core i5,2,,8 GB,,,120 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core m5,2,2.7 GHz,8 GB,DDR3,1866,256 GB,błyszcząca,2160 x 1440,Intel HD Graphics 515,0.64 kg,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,256 GB,błyszcząca,3840 x 2160,NVIDIA GeForce GTX 1050 Ti Max-Q,1.8 kg,97 Wh
+Nowy,IPS,eMMC,Windows 10 Home,Intel Celeron Dual-Core,2,2.6 GHz,4 GB,DDR4,2400,64 GB,matowa,1920 x 1080,,1.3 kg,4670 mAh
+Nowy,IPS,Hybrydowy,Windows 10 Home,Intel Core i7,6,4.1 GHz,8 GB,DDR4,2666,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.31 kg,4240 mAh
+Używany,TN,SSD,"Windows 7 Home 64-bit, Windows 10 Professional, Windows 8.1 Professional 64-bit",Intel Core i7,2,3.3 GHz,16 GB,DDR3,,512 GB,błyszcząca,1920 x 1080,Intel HD Graphics 4400,1.8 kg,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,2,3.5 GHz,8 GB,DDR4,,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,,60 mAh
+Nowy,TN,HDD,brak systemu,Intel Core i5,4,2.3 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.2 kg,45 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,2,3.5 GHz,8 GB,DDR4,,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,,
+Nowy,,SSD,brak systemu,Intel Core i7,4,4 GHz,16 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,1.53 kg,3727 mAh
+Używany,,SSD,Windows 10 Home,Intel Core i7,2,,8 GB,DDR3L,,256 GB,matowa,1366 x 768,,3 kg,
+Używany,,SSD,Mac OS,Intel Core i7,2,3.2 GHz,8 GB,,1600,256 GB,matowa,1440 x 900,Intel HD Graphics 4000,1.35 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.9 GHz,16 GB,DDR4,2400,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1080,4.42 kg,99 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,480 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,2.1 kg,30 Wh
+Nowy,TN,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,250 GB,matowa,1920 x 1080,,2.08 kg,30 Wh
+Nowy,TN,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.98 kg,3220 mAh
+Nowy,IPS,HDD,brak systemu,Intel Core i7,6,4.1 GHz,8 GB,DDR4,2666,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.26 kg,4670 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR3,1866,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.21 kg,52 Wh
+Nowy,IPS,Hybrydowy,brak systemu,Intel Core i7,6,4.1 GHz,8 GB,DDR4,2666,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.31 kg,4240 mAh
+Nowy,IPS,Hybrydowy,brak systemu,Intel Core i7,6,4.1 GHz,8 GB,DDR4,2666,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.31 kg,4240 mAh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,2400,1024 GB,błyszcząca,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,3,4 GHz,8 GB,DDR4,,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,,HDD,Windows 10 Home,Intel Core i5,3,3.4 GHz,8 GB,DDR4,2133,1000 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,2.2 kg,
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR3,1866,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.32 kg,
+Po zwrocie,,SSD,Windows 10 Professional,Intel Core i7,4,3.9 GHz,16 GB,DDR4,,256 GB,matowa,1920 x 1080,,,
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2133,256 GB,błyszcząca antyrefleksyjna,1920 x 1080,NVIDIA GeForce MX150,1.4 kg,
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,2.9 GHz,4 GB,DDR3L,,128 GB,matowa,1366 x 768,,,
+Odnowiony przez producenta,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,,,128 GB,błyszcząca antyrefleksyjna,1366 x 768,,,
+Nowy,TN,SSD,Windows 10 Professional,Intel Core i5,2,3.4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.67 kg,42 Wh
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i5,2,3 GHz,4 GB,DDR4,,256 GB,matowa,1366 x 768,Intel HD Graphics 520,1.26 kg,55 Wh
+Odnowiony przez producenta,,HDD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2133,1000 GB,błyszcząca,1600 x 900,Intel HD Graphics 620,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR3L,2133,256 GB,błyszcząca,1920 x 1080,,1.29 kg,60 mAh
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i5,2,3.2 GHz,8 GB,DDR3,,256 GB,matowa,1600 x 900,Intel HD Graphics 4400,2.2 kg,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,4 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,,1.67 kg,42 Wh
+Odnowiony przez producenta,,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2133,1256 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.65 kg,56 Wh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR3L,,256 GB,błyszcząca,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,8 GB,DDR4,,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,2.27 kg,3220 mAh
+Używany,TN,SSD,brak systemu,Intel Core i5,2,3 GHz,8 GB,DDR3L,,256 GB,matowa,1920 x 1080,Intel HD Graphics 4400,1.4 kg,
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i7,4,,32 GB,,,240 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD,Mac OS,Intel Core i5,4,3.8 GHz,8 GB,DDR3L,2133,256 GB,błyszcząca,2560 x 1600,Intel Iris Plus Graphics 655,1.37 kg,58 Wh
+Używany,IPS,SSD,Windows 8.1 Professional 64-bit,Intel Core i7,4,,16 GB,DDR3,,500 GB,matowa,1920 x 1080,,,
+Nowy,TN,SSD,brak systemu,AMD A6,2,2.9 GHz,8 GB,DDR4,2133,240 GB,matowa,1600 x 900,,2.41 kg,30 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.93 kg,3220 mAh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Nowy,TN,SSD,brak systemu,AMD A6,2,2.9 GHz,8 GB,DDR4,2133,240 GB,matowa,1920 x 1080,AMD Radeon 530M,2.07 kg,30 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,32 GB,DDR4,2400,1024 GB,błyszcząca,3840 x 2160,NVIDIA GeForce GTX 1050 Ti Max-Q,1.8 kg,97 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR3,2133,256 GB,błyszcząca,1920 x 1080,,1.74 kg,30 Wh
+Nowy,TN,HDD,Windows 10 Home,Intel Pentium Dual-Core,2,2.1 GHz,4 GB,DDR4,2400,1000 GB,matowa,1366 x 768,Intel HD Graphics 510,1.95 kg,3070 mAh
+Nowy,IPS,SSD,Windows 10 Home,AMD Ryzen 5,4,3.6 GHz,8 GB,DDR4,2400,128 GB,błyszcząca,1920 x 1080,,1.3 kg,53.2 Wh
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 8.1 Professional 64-bit",Intel Core i5,2,3.3 GHz,8 GB,DDR3,,240 GB,matowa,1600 x 900,,,
+Powystawowy,,SSD + HDD,Windows 10 Home,Intel Core i7,2,3.5 GHz,8 GB,DDR4,,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GT 940MX,,
+Odnowiony przez producenta,,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,8 GB,DDR3,1866,256 GB,matowa,1366 x 768,Intel HD Graphics 505,,
+Odnowiony przez producenta,IPS,SSD + HDD,Windows 10 Professional,Intel Core i7,4,3.9 GHz,16 GB,DDR4,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1070,,
+Używany,IPS,SSD,"Windows 8.1 Professional 64-bit, Windows 10 Professional",Intel Core i7,2,3.3 GHz,4 GB,DDR3L,,120 GB,matowa,1920 x 1080,Intel HD Graphics 4400,1.7 kg,
+Używany,TN,SSD,Windows 10 Professional,Intel Core i7,2,3.3 GHz,8 GB,DDR3,,256 GB,matowa,1366 x 768,,,
+Używany,TN,HDD,Mac OS,Intel Core i7,4,2.9 GHz,4 GB,DDR3,1600,320 GB,błyszcząca,1440 x 900,,2.54 kg,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i9,6,4.8 GHz,32 GB,DDR4,2400,1512 GB,matowa,3840 x 2160,NVIDIA GeForce GTX 1080,3.5 kg,99 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i5,4,,8 GB,DDR4,2133,1000 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1512 GB,matowa,3840 x 2160,NVIDIA GeForce GTX 1060,2.62 kg,70 Wh
+Używany,,SSD,"Windows 10 Professional, Windows 7 Professional 64-bit, Windows 7 Professional 32-bit",Intel Core i7,4,,16 GB,,,240 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Home,AMD Ryzen 5,4,3.6 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,2.2 kg,3320 mAh
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3 GHz,4 GB,DDR3L,,256 GB,matowa,1366 x 768,Intel HD Graphics 4400,1.4 kg,45 Wh
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,6,4.8 GHz,32 GB,DDR4,2400,1024 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050 Ti Max-Q,1.8 kg,56 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,2000 GB,matowa,1920 x 1080,AMD Radeon 530M,2.2 kg,
+Używany,TN,HDD,"inny, Windows 7 Professional 32-bit, Windows 7 Professional 64-bit",Intel Core i3,2,,3 GB,DDR3,,250 GB,matowa,1366 x 768,,2.5 kg,40 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3,2133,512 GB,błyszcząca,3840 x 2160,,,
+Nowy,TN,HDD,Windows 10 Home,Intel Core i3,2,3.4 GHz,4 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,,1.62 kg,3727 mAh
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Professional 64-bit, Windows 10 Home",Intel Core i5,2,2.6 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,,1.7 kg,
+Nowy,,Brak,brak systemu,Intel Celeron Dual-Core,2,,4 GB,DDR3,,0 GB,matowa,Inna,,,
+Nowy,IPS,SSD,Mac OS,Intel Core i7,6,4.3 GHz,32 GB,DDR4,2400,512 GB,błyszcząca,2880 x 1800,AMD Radeon Pro 560,1.83 kg,83.6 Wh
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Professional 64-bit, Windows 10 Home",Intel Core i7,4,3.7 GHz,8 GB,DDR3,,240 GB,matowa,1920 x 1080,,3 kg,
+Odnowiony przez producenta,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,4.1 GHz,16 GB,DDR4,,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Używany,IPS,SSD,Windows 10 Professional,Intel Core i7,4,,16 GB,DDR3,,512 GB,matowa,1920 x 1280,,,
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR4,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,74 Wh
+Nowy,,SSD,Windows 10 Home,AMD A9,2,3.6 GHz,8 GB,DDR4,1866,256 GB,matowa,1600 x 900,,2.5 kg,41 Wh
+Odnowiony przez producenta,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR3,1866,1000 GB,matowa,1366 x 768,Intel HD Graphics 505,,
+Nowy,IPS,SSD + HDD,Windows 10 Professional,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2666,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,2.81 kg,56 Wh
+Nowy,,eMMC,Windows 10 Home,Inny procesor,4,,2 GB,,,64 GB,błyszcząca,1280 x 800,Intel HD Graphics 400,,
+Nowy,,SSD,Windows 10 Professional,Intel Core i3,2,,8 GB,DDR4,2133,240 GB,matowa,1366 x 768,Intel HD Graphics 520,,
+Nowy,,SSD,Windows 10 Professional,Intel Core i7,4,4 GHz,8 GB,DDR3,1866,256 GB,błyszcząca,3200 x 1800,,,
+Nowy,,SSD + HDD,Linux,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1240 GB,matowa,1920 x 1080,AMD Radeon 530M,2.2 kg,42 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,4 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,AMD Radeon 530M,,
+Nowy,,SSD,Windows 10 Home,Intel Celeron Dual-Core,2,2.48 GHz,4 GB,DDR3L,1600,32 GB,błyszcząca,1366 x 768,Intel HD Graphics 400,1.44 kg,41 Wh
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,4 GB,DDR3,,500 GB,antyrefleksyjna,1366 x 768,,2.7 kg,
+Odnowiony przez producenta,,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,8 GB,DDR3,1866,512 GB,matowa,1366 x 768,Intel HD Graphics 505,,
+Używany,IPS,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3.2 GHz,4 GB,,,128 GB,antyrefleksyjna,1366 x 768,,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,2666,1000 GB,matowa,1920 x 1080,,2.95 kg,
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,,8 GB,,,256 GB,matowa,1920 x 1080,,,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,,
+Używany,TN,HDD,"Windows 10 Home, Windows 10 Professional, Windows 7 Professional 64-bit",Intel Core i5,2,3.2 GHz,8 GB,DDR3,,320 GB,matowa,1600 x 900,,2.2 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.32 kg,3220 mAh
+Używany,,SSD,Mac OS,Intel Core i7,2,,8 GB,,,240 GB,błyszcząca antyrefleksyjna,1440 x 900,,,
+Nowy,TN,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,4 GB,DDR3,1600,256 GB,matowa,1366 x 768,Intel HD Graphics 505,2 kg,
+Używany,,HDD,Windows 10 Home,Intel Core i3,2,,4 GB,DDR4,2133,1000 GB,matowa,1600 x 900,,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,16 GB,,,240 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,32 GB,DDR4,2400,1512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1070,3.78 kg,86 Wh
+Nowy,IPS,SSD,Mac OS,Intel Core i5,4,,8 GB,DDR3L,2133,256 GB,błyszcząca,2560 x 1600,,1.37 kg,58 Wh
+Nowy,,SSD + HDD,brak systemu,Intel Core i5,4,,8 GB,,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,TN,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.5 GHz,8 GB,DDR3L,1600,1000 GB,matowa,1920 x 1080,Intel HD Graphics 505,2.02 kg,30 Wh
+Używany,,SSD,Windows 10 Home,Intel Core i7,2,,8 GB,DDR3,,120 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1000 GB,błyszcząca,3840 x 2160,NVIDIA GeForce GTX 1050,2 kg,72 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,1866,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.3 kg,60 Wh
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,,,120 GB,matowa,1920 x 1080,,,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,NVIDIA GeForce MX150,,
+Używany,,HDD,"Windows 7 Professional 64-bit, Windows 7 Home 64-bit",Intel Core i5,2,,4 GB,,,320 GB,matowa,1366 x 768,,,
+Używany,TN,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,4 GB,DDR3,,320 GB,antyrefleksyjna,1366 x 768,,,
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i7,2,3.3 GHz,4 GB,DDR3L,,128 GB,matowa,1920 x 1080,Intel HD Graphics 4400,1.4 kg,34 Wh
+Nowy,IPS,SSD,brak systemu,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,240 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,2.1 kg,30 Wh
+Używany,,SSD,Windows 10 Professional,Intel Core i5,2,2.9 GHz,8 GB,DDR3L,1600,128 GB,matowa,1366 x 768,Intel HD Graphics 4400,1.42 kg,23.5 Wh
+Nowy,,eMMC,Windows 10 Home,Inny procesor,4,1.83 GHz,2 GB,DDR3,1600,32 GB,matowa,1366 x 768,Intel HD Graphics 400,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,3.2 GHz,4 GB,DDR3,,160 GB,matowa,1366 x 768,Intel HD Graphics 3000,2.2 kg,
+Używany,,HDD,Windows 10 Home,Intel Core 2 Duo,2,,3 GB,,,160 GB,matowa,1280 x 800,,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,3.3 GHz,8 GB,,,320 GB,matowa,1600 x 900,,,
+Używany,,SSD + HDD,Windows 8.1 Professional 64-bit,Intel Core i7,4,,16 GB,,,240 GB,matowa,1920 x 1080,,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,,,240 GB,matowa,1920 x 1080,,,
+Odnowiony przez producenta,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.5 GHz,16 GB,DDR4,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,,16 GB,DDR4,2400,2256 GB,matowa,1920 x 1080,AMD Radeon 530M,2.79 kg,
+Nowy,TN,SSD,Windows 10 Home,Intel Core i3,2,2.7 GHz,8 GB,DDR4,2133,128 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.42 kg,38 Wh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,2,3.6 GHz,8 GB,DDR3,,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 615,,
+Nowy,,SSD,Windows 10 Professional,Intel Core i7,6,4.1 GHz,32 GB,DDR4,2400,512 GB,matowa,3840 x 2160,NVIDIA GeForce GTX 1050Ti,,
+Nowy,,HDD,Windows 10 Home,Intel Core i5,2,3.1 GHz,4 GB,DDR4,2400,500 GB,matowa,1366 x 768,AMD Radeon R7 M445,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2666,1512 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1060,3.78 kg,86 mAh
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i5,2,3.3 GHz,4 GB,DDR3,,120 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Nowy,,HDD,Windows 10 Home,Intel Core i7,2,3.1 GHz,8 GB,DDR3,1600,500 GB,matowa,1920 x 1080,AMD Radeon R7 M360,3 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,4.42 kg,68 Wh
+Po zwrocie,,SSD,Windows 10 Professional,Intel Core i7,4,3.9 GHz,16 GB,DDR4,,512 GB,matowa,1920 x 1080,,,
+Nowy,,eMMC + HDD,Windows 10 Home,Inny procesor,4,,4 GB,DDR3,,532 GB,matowa,1920 x 1280,,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,4,3.4 GHz,8 GB,DDR3,1866,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.42 kg,45 Wh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,256 GB,matowa,1920 x 1080,,,
+Nowy,,eMMC,Windows 10 Home,Intel Celeron Dual-Core,2,,4 GB,,,64 GB,błyszcząca,1920 x 1080,,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,DDR3,,120 GB,matowa,1366 x 768,,,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1120 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,,
+Nowy,TN,eMMC,Windows 10 Professional,Intel Celeron,2,2.5 GHz,4 GB,DDR3,1333,64 GB,matowa,1920 x 1080,Intel HD Graphics 500,,
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i7,6,,8 GB,,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Używany,,SSD + HDD,Windows 10 Professional,Intel Core i7,4,,24 GB,,,1000 GB,antyrefleksyjna,1920 x 1080,NVIDIA Quadro K3100M,,
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3.3 GHz,8 GB,DDR3,1600,256 GB,matowa,Inna,Intel HD Graphics 4000,4 kg,87 Wh
+Używany,,SSD,"Windows 7 Professional 64-bit, Windows 10 Professional",Intel Core i5,2,3.3 GHz,4 GB,DDR3L,,120 GB,matowa,1366 x 768,Intel HD Graphics 4600,,
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i7,2,3.2 GHz,8 GB,DDR3,,256 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Pentium Quad-Core,3,2.5 GHz,4 GB,DDR3L,,128 GB,matowa,1366 x 768,Intel HD Graphics 505,,
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR3,1866,512 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,1.3 kg,4335 mAh
+Używany,TN,HDD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i5,2,2.8 GHz,4 GB,DDR3,,500 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,2666,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.17 kg,4670 mAh
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Home 64-bit, Windows 8.1 Professional 64-bit",Intel Core i5,2,2.9 GHz,8 GB,DDR3,,512 GB,matowa,1600 x 900,Intel HD Graphics 4400,1.7 kg,
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,512 GB,matowa,1600 x 900,,,
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Home 64-bit, Windows 8.1 Professional 64-bit",Intel Core i5,2,2.9 GHz,8 GB,DDR3,,240 GB,matowa,1600 x 900,Intel HD Graphics 4400,1.7 kg,
+Odnowiony przez producenta,,HDD,Windows 10 Home,Intel Core i3,2,,8 GB,DDR4,2133,1000 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,6,4.1 GHz,32 GB,DDR4,2666,512 GB,matowa,1920 x 1080,,3.17 kg,97 Wh
+Odnowiony przez producenta,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.5 GHz,8 GB,DDR4,,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,4 GHz,16 GB,DDR4,2400,512 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,2.3 kg,3500 mAh
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4.1 GHz,16 GB,DDR4,2400,512 GB,antyrefleksyjna,3840 x 2160,,,
+Nowy,IPS,SSD,Mac OS,Intel Core i5,4,3.8 GHz,16 GB,DDR3L,2133,512 GB,błyszcząca,2560 x 1600,Intel Iris Plus Graphics 655,1.37 kg,58 Wh
+Używany,,SSD,Windows 10 Professional,Inny procesor,4,,2 GB,,,32 GB,błyszcząca,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Home,Inny procesor,2,2.6 GHz,8 GB,DDR3,,128 GB,błyszcząca,1280 x 800,Intel HD Graphics 615,,9800 mAh
+Nowy,,HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,1000 GB,matowa,1920 x 1080,,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,DDR3,,320 GB,matowa,1920 x 1080,,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,,,320 GB,matowa,1600 x 900,,,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR4,,256 GB,błyszcząca,1920 x 1080,NVIDIA GeForce MX150,,
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i5,3,3.4 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3 GHz,4 GB,DDR3L,,120 GB,matowa,1600 x 900,Intel HD Graphics 4400,1.78 kg,90 Wh
+Nowy,,SSD,Mac OS,Intel Core i5,4,3.8 GHz,8 GB,DDR3,2133,512 GB,błyszcząca,2560 x 1600,,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,2,3.3 GHz,8 GB,DDR3,1866,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 615,1.24 kg,46 Wh
+Nowy,IPS,Hybrydowy,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1070,2.45 kg,3605 mAh
+Powystawowy,,HDD,Windows 10 Home,Intel Core i3,4,,4 GB,,,1000 GB,błyszcząca,1366 x 768,NVIDIA GeForce 920M,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,2666,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.95 kg,
+Nowy,IPS,SSD,Windows 10 Professional,Inny procesor,6,4.8 GHz,32 GB,DDR4,2666,1000 GB,matowa,1920 x 1080,,3.17 kg,97 Wh
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3.3 GHz,8 GB,,,240 GB,matowa,1600 x 900,,,
+Nowy,IPS,SSD,Mac OS,Intel Core i7,4,4.5 GHz,16 GB,DDR3L,2133,512 GB,błyszcząca,2560 x 1600,Intel Iris Plus Graphics 655,1.37 kg,58 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core m5,2,2.7 GHz,8 GB,DDR3,1866,256 GB,błyszcząca,2160 x 1440,Intel HD Graphics 515,0.64 kg,
+Odnowiony przez producenta,,SSD + HDD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2133,1128 GB,matowa,1920 x 1080,Intel HD Graphics 620,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,2400,1024 GB,błyszcząca,3840 x 2160,NVIDIA GeForce MX150,2.01 kg,79 mAh
+Nowy,,HDD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,,,
+Nowy,TN,SSD,Windows 10 Home,Intel Core i3,2,3.4 GHz,8 GB,DDR4,2400,240 GB,matowa,1920 x 1080,,2.08 kg,30 Wh
+Używany,,SSD,Windows 10 Home,Intel Core i3,2,,8 GB,,,120 GB,matowa,1920 x 1080,,3 kg,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,2.3 kg,3500 mAh
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,3.2 GHz,4 GB,DDR3,,320 GB,matowa,1366 x 768,,,
+Nowy,TN,HDD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,,1000 GB,błyszcząca,1366 x 768,Intel HD Graphics 620,2 kg,42 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i5,3,3.4 GHz,8 GB,DDR4,2133,256 GB,błyszcząca,Inna,Intel HD Graphics 620,,
+Nowy,TN,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.9 GHz,8 GB,DDR4,2666,1240 GB,matowa,1920 x 1080,NVIDIA GeForce MX130,1.75 kg,3220 mAh
+Nowy,,Hybrydowy,Windows 8.1 Home 64-bit,Intel Core i5,2,,6 GB,,,524 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i7,6,4.1 GHz,32 GB,DDR4,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1070,2.85 kg,4940 mAh
+Po zwrocie,,SSD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,1.85 kg,
+Nowy,TN,SSD,Windows 10 Professional,Intel Core i5,2,3 GHz,16 GB,DDR4,,500 GB,matowa,1366 x 768,Intel HD Graphics 520,1.6 kg,
+Odnowiony przez producenta,,SSD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,,512 GB,matowa,1600 x 900,Intel HD Graphics 620,,
+Nowy,,SSD,Windows 10 Professional,Intel Core i7,4,4 GHz,16 GB,DDR3,1866,512 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,1.3 kg,4335 mAh
+Odnowiony przez producenta,,SSD,Windows 10 Professional,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2133,256 GB,błyszcząca,1366 x 768,Intel HD Graphics 620,,
+Używany,TN,SSD,"Windows 10 Professional, Windows 8.1 Professional 64-bit, Windows 7 Home 64-bit",Intel Core i7,2,3.3 GHz,12 GB,DDR3,,240 GB,błyszcząca,1920 x 1080,Intel HD Graphics 4400,1.6 kg,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,4 GHz,16 GB,DDR4,2666,500 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.3 kg,52.5 Wh
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i7,2,3.3 GHz,8 GB,DDR3,,120 GB,matowa,1366 x 768,Intel HD Graphics 4000,2 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1128 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1050,2.21 kg,70 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1070,4 kg,4810 mAh
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,2,3.5 GHz,8 GB,DDR4,2133,256 GB,błyszcząca,3200 x 1800,Intel HD Graphics 620,,
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i5,2,2.6 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,Intel HD Graphics 4400,,
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i5,2,2.9 GHz,8 GB,DDR3L,,240 GB,matowa,1920 x 1080,Intel HD Graphics 5500,2.11 kg,
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i5,4,,8 GB,,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Używany,,SSD,"Windows 10 Home, Windows 10 Professional",Intel Core i5,2,,8 GB,DDR3L,,256 GB,błyszcząca antyrefleksyjna,1920 x 1080,,,
+Powystawowy,,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1256 GB,matowa,1920 x 1080,,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,2400,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.37 kg,3220 mAh
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i3,2,0 GHz,8 GB,DDR4,2400,1000 GB,błyszcząca,1920 x 1080,Intel HD Graphics 520,2.9 kg,42 Wh
+Nowy,,SSD + HDD,brak systemu,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1256 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,1.53 kg,3727 mAh
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3.3 GHz,16 GB,DDR3,,240 GB,matowa,1920 x 1080,,,
+Używany,TN,HDD,"Windows 10 Home, Windows 10 Professional, Windows 7 Professional 64-bit",Intel Core i5,2,3.3 GHz,8 GB,DDR3,,320 GB,matowa,1600 x 900,Intel HD Graphics 4000,2.2 kg,
+Nowy,TN,SSD,Windows 10 Home,Intel Core i3,2,2 GHz,4 GB,DDR4,2400,256 GB,matowa,1920 x 1080,Intel HD Graphics 520,1.92 kg,3000 mAh
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i5,2,3.2 GHz,8 GB,DDR3,,120 GB,matowa,1366 x 768,Intel HD Graphics 3000,1.5 kg,
+Używany,,SSD,"Windows 8.1 Professional 64-bit, Windows 10 Professional",Intel Core i5,2,2.7 GHz,8 GB,DDR3,,256 GB,matowa,1920 x 1080,Intel HD Graphics 4400,,
+Nowy,,SSD,Windows 10 Home,Intel Pentium Quad-Core,4,2.7 GHz,4 GB,DDR4,2133,128 GB,matowa,1920 x 1080,,1.86 kg,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,4,3.4 GHz,8 GB,DDR3,,256 GB,błyszcząca,1920 x 1080,,,
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,,8 GB,DDR3,,240 GB,matowa,1600 x 900,,,
+Nowy,TN,HDD,Windows 10 Professional,Intel Core i3,2,,4 GB,DDR4,2133,500 GB,matowa,1920 x 1080,Intel HD Graphics 520,1.86 kg,41 Wh
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,2666,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.41 kg,3220 mAh
+Nowy,IPS,SSD,Windows 10 Home,Inny procesor,4,3.6 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,,2.04 kg,55.8 Wh
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,4,3.6 GHz,8 GB,DDR3,1866,256 GB,błyszcząca,1920 x 1080,Intel HD Graphics 620,1.42 kg,45 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,2400,1256 GB,błyszcząca,1920 x 1080,NVIDIA GeForce 940MX,1.63 kg,41 Wh
+Nowy,,HDD,Windows 10 Home,Intel Celeron Dual-Core,2,2.4 GHz,4 GB,DDR3,,1000 GB,matowa,1366 x 768,Intel HD Graphics 500,,
+Używany,IPS,SSD,Windows 10 Professional,Intel Core i5,2,,8 GB,,,512 GB,matowa,1920 x 1080,,,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,8 GB,,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Odnowiony przez producenta,,SSD,Windows 10 Home,Intel Pentium Dual-Core,2,2.16 GHz,8 GB,DDR3,,256 GB,błyszcząca,1366 x 768,,,
+Nowy,,HDD,Windows 10 Home,Intel Celeron Dual-Core,2,2.48 GHz,4 GB,DDR3,1600,500 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,512 GB,błyszcząca,3840 x 2160,NVIDIA GeForce GTX 1050,2.05 kg,97 Wh
+Odnowiony przez producenta,,HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2133,1000 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,3.49 kg,68 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,,16 GB,,,256 GB,matowa,1920 x 1080,,,
+Nowy,TN,SSD,Windows 10 Professional,Intel Core i5,2,3 GHz,8 GB,DDR4,,128 GB,matowa,1366 x 768,Intel HD Graphics 520,1.6 kg,
+Nowy,TN,SSD,Windows 10 Professional,Intel Core i5,4,3.5 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.7 kg,74 Wh
+Używany,,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3.3 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,,,
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.21 kg,
+Używany,,SSD,Windows 10 Home,Intel Core i5,2,,8 GB,,,180 GB,matowa,1600 x 900,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,3.5 kg,99 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,6,4.1 GHz,16 GB,DDR4,2666,1512 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1060,3.78 kg,86 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,3.1 kg,
+Używany,TN,SSD,"Windows 10 Professional, Windows 10 Home, Windows 7 Professional 64-bit",Intel Core i5,2,2.6 GHz,8 GB,DDR3,,128 GB,matowa,1920 x 1080,Intel HD Graphics 4400,1.8 kg,
+Odnowiony przez producenta,,SSD + HDD,Windows 10 Home,Intel Core i3,2,,8 GB,DDR4,2133,1256 GB,matowa,1920 x 1080,,,
+Nowy,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,,4 GB,DDR4,,500 GB,matowa,1366 x 768,,,40 Wh
+Nowy,IPS,HDD,Windows 10 Home,Intel Core i5,3,3.4 GHz,8 GB,DDR4,2400,1000 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,2.2 kg,
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i7,6,4.1 GHz,16 GB,DDR4,,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1070,2.85 kg,4940 mAh
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,2,3.5 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.4 kg,60 Wh
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i5,2,2.8 GHz,4 GB,DDR3,,120 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Używany,,SSD,"Windows 8.1 Professional 64-bit, Windows 10 Professional",Intel Core i7,4,,8 GB,,,256 GB,antyrefleksyjna,1920 x 1080,,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i7,4,,16 GB,DDR3,,500 GB,matowa,1920 x 1080,,,
+Nowy,TN,HDD,Windows 10 Home,Intel Core i3,4,,4 GB,DDR4,2133,500 GB,matowa,1366 x 768,Intel HD Graphics 520,1.9 kg,32 Wh
+Używany,,Brak,brak systemu,Intel Core i5,2,,4 GB,,,0 GB,matowa,1600 x 900,,,
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1500 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,512 GB,błyszcząca,3840 x 2160,NVIDIA GeForce GTX 1050,2.05 kg,97 Wh
+Nowy,,SSD + HDD,Windows 10 Home,Inny procesor,4,3.6 GHz,8 GB,DDR4,2400,1240 GB,matowa,1920 x 1080,,1.67 kg,3653 mAh
+Nowy,,HDD,Windows 10 Home,Intel Core i7,2,3.5 GHz,8 GB,DDR4,,1000 GB,błyszcząca,1366 x 768,AMD Radeon R5 M430,3 kg,40 Wh
+Nowy,TN,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,240 GB,matowa,1920 x 1080,,2.09 kg,30 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,8 GB,DDR3L,2133,512 GB,błyszcząca,3840 x 2160,Intel HD Graphics 620,1.29 kg,60 Wh
+Odnowiony przez producenta,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,,1256 GB,błyszcząca,1920 x 1080,NVIDIA GeForce MX150,,
+Nowy,,SSD,Windows 10 Home,AMD A12,4,3.6 GHz,8 GB,DDR4,2133,256 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i9,6,4.8 GHz,32 GB,DDR4,2400,512 GB,matowa,3840 x 2160,NVIDIA GeForce GTX 1080,3.5 kg,99 Wh
+Nowy,,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,8 GB,DDR4,2400,1128 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.53 kg,74 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,,2.3 kg,
+Nowy,TN,SSD,brak systemu,AMD A6,2,2.9 GHz,4 GB,DDR4,2133,120 GB,matowa,1920 x 1080,AMD Radeon 530M,2.07 kg,30 Wh
+Nowy,IPS,SSD + HDD,brak systemu,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1240 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,2.1 kg,30 Wh
+Nowy,,SSD + HDD,brak systemu,Intel Core i7,6,,16 GB,,,1120 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Używany,,SSD,Windows 8.1 Professional 64-bit,Intel Core i7,2,2.9 GHz,8 GB,DDR3,,240 GB,matowa,1920 x 1080,,,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,32 GB,DDR4,,1024 GB,błyszcząca,3840 x 2160,NVIDIA GeForce MX150,,
+Nowy,,SSD + HDD,brak systemu,Intel Core i5,4,,16 GB,,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,3.3 GHz,4 GB,,,320 GB,matowa,1600 x 900,,,
+Używany,,HDD,brak systemu,AMD A6,2,3.2 GHz,4 GB,,,320 GB,matowa,1366 x 768,,,
+Nowy,VA,HDD,Windows 10 Home,Intel Core i3,2,2 GHz,8 GB,DDR4,2133,1000 GB,błyszcząca antyrefleksyjna,1920 x 1080,,,41 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,1256 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.62 kg,70 Wh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,8 GB,DDR4,2400,512 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,2.42 kg,3220 mAh
+Używany,,SSD,Windows 10 Home,Intel Core i5,2,,8 GB,DDR3,,256 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,4 GHz,16 GB,DDR4,2666,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,2.53 kg,56 Wh
+Odnowiony przez producenta,,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2133,1256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Nowy,,HDD,Windows 10 Home,Intel Pentium 4,2,,4 GB,DDR4,2133,500 GB,błyszcząca,1366 x 768,Intel HD Graphics 510,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,3.6 GHz,32 GB,DDR4,2133,512 GB,matowa,1920 x 1080,AMD FirePro W5170M,3.42 kg,72 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,,1.26 kg,4335 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,6,4.1 GHz,8 GB,DDR4,,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,
+Używany,,HDD,Windows 8.1 Professional 64-bit,Intel Core i5,2,3.3 GHz,4 GB,DDR3,,250 GB,matowa,1366 x 768,,,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3,,1024 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,
+Używany,,SSD,Windows 10 Home,Intel Core i5,2,,8 GB,DDR3L,,256 GB,matowa,1920 x 1080,,,
+Nowy,IPS,Hybrydowy,Windows 10 Home,Intel Core i5,4,4 GHz,8 GB,DDR4,,1240 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,2.31 kg,4240 mAh
+Nowy,TN,SSD + HDD,Windows 10 Home,Intel Core i3,2,2 GHz,8 GB,DDR4,2133,1120 GB,matowa,1920 x 1080,Intel HD Graphics 520,2.05 kg,30 Wh
+Nowy,TN,SSD + HDD,brak systemu,AMD A6,2,2.9 GHz,8 GB,DDR4,2133,1120 GB,matowa,1600 x 900,AMD Radeon 530M,2.41 kg,30 Wh
+Używany,TN,HDD,inny,Intel Core 2 Duo,2,,2 GB,DDR3,,320 GB,antyrefleksyjna,1280 x 800,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3,1866,1024 GB,błyszcząca,3840 x 2160,Intel HD Graphics 620,1.21 kg,52 Wh
+Odnowiony przez sprzedawcę,,HDD,Windows 10 Professional,Intel Core i7,4,,8 GB,,,320 GB,matowa,1920 x 1080,,2.63 kg,
+Nowy,,eMMC,Windows 10 Home,Intel Celeron Dual-Core,2,2.4 GHz,4 GB,DDR3,1600,64 GB,błyszcząca,1366 x 768,Intel HD Graphics 500,1 kg,
+Nowy,TN,SSD,Windows 10 Professional,Intel Core i3,2,,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,Intel HD Graphics 520,1.86 kg,41 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,8 GB,DDR4,2133,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050Ti,,48 Wh
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR4,2133,1128 GB,antyrefleksyjna,1920 x 1080,,2.6 kg,41 Wh
+Używany,TN,SSD,Windows 10 Professional,AMD A8,4,3.1 GHz,16 GB,DDR3,,480 GB,matowa,1366 x 768,,,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,,,512 GB,błyszcząca,1920 x 1080,,1.1 kg,46 Wh
+Nowy,TN,HDD,Windows 10 Home,Intel Core i3,2,3.4 GHz,12 GB,DDR4,,1000 GB,matowa,1366 x 768,,2.2 kg,30 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,,120 GB,matowa,1600 x 900,,,
+Używany,TN,SSD,"Windows 7 Professional 64-bit, Windows 10 Home, Windows 10 Professional",Intel Core i5,2,3.3 GHz,8 GB,DDR3,,240 GB,matowa,1366 x 768,Intel HD Graphics 4000,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,1128 GB,błyszcząca,1920 x 1080,NVIDIA GeForce MX150,2.16 kg,55 mAh
+Nowy,,SSD,Windows 10 Home,Intel Core i3,2,3.4 GHz,8 GB,DDR4,,256 GB,matowa,1366 x 768,,,
+Używany,,SSD,Windows 7 Professional 32-bit,Intel Core i7,2,3.6 GHz,8 GB,DDR3,,128 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,2,3.1 GHz,8 GB,DDR3,1600,128 GB,błyszcząca,2160 x 1440,Intel HD Graphics 620,,
+Używany,,SSD,Windows 10 Professional,Intel Core i5,2,,8 GB,DDR3,,180 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i5,4,3.5 GHz,8 GB,DDR4,,1000 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1050,,
+Używany,,SSD,Windows 10 Home,Intel Core i5,2,,8 GB,DDR3,,240 GB,matowa,1366 x 768,,,
+Używany,,HDD,Windows 7 Professional 64-bit,Intel Core i5,2,,4 GB,,,160 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Mac OS,Intel Core i7,4,4.5 GHz,16 GB,DDR3L,2133,256 GB,błyszcząca,2560 x 1600,Intel Iris Plus Graphics 655,1.37 kg,58 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i3,2,,4 GB,DDR4,2133,1 GB,matowa,1920 x 1080,,,
+Nowy,TN,HDD,Windows 10 Home,Intel Core i3,2,2.7 GHz,8 GB,DDR4,,1000 GB,matowa,1366 x 768,Intel HD Graphics 620,3 kg,40 Wh
+Nowy,,HDD,Windows 10 Home,Intel Core i7,2,3.5 GHz,8 GB,DDR4,,2000 GB,matowa,1920 x 1080,NVIDIA GeForce GT 940MX,,
+Powystawowy,,SSD,Windows 10 Home,Intel Core i7,4,3.8 GHz,16 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,2.56 kg,4240 mAh
+Nowy,TN,HDD,Windows 10 Home,Intel Pentium Quad-Core,2,2.1 GHz,4 GB,DDR4,2133,500 GB,błyszcząca,1366 x 768,Intel HD Graphics 510,2.2 kg,
+Odnowiony przez producenta,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR3,,256 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,
+Powystawowy,IPS,SSD,Windows 10 Home,Intel Core i7,2,3.5 GHz,16 GB,DDR4,2133,512 GB,błyszcząca,1920 x 1080,NVIDIA GeForce 940MX,2 kg,52.5 Wh
+Używany,TN,SSD,"Windows 10 Professional, Windows 7 Professional 64-bit, Windows 10 Home",Intel Core i5,2,3.3 GHz,8 GB,DDR3,,240 GB,matowa,1920 x 1080,Intel HD Graphics 4400,3 kg,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i5,2,3.5 GHz,16 GB,DDR4,2400,512 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.9 kg,51 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,,512 GB,matowa,1920 x 1080,,,
+Nowy,,SSD,Windows 10 Home,Intel Core i3,2,3.4 GHz,8 GB,DDR4,,256 GB,matowa,1920 x 1080,,,
+Używany,,Brak,brak systemu,Intel Core i5,2,,4 GB,,,0 GB,matowa,1366 x 768,,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i7,4,3.8 GHz,8 GB,DDR4,2400,256 GB,matowa,1920 x 1080,NVIDIA GeForce GTX 1060,3.1 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.8 GHz,12 GB,DDR4,2400,1128 GB,antyrefleksyjna,1920 x 1080,NVIDIA GeForce GTX 1050,2.21 kg,70 Wh
+Używany,,HDD,Windows 10 Professional,Intel Core i5,2,,4 GB,,,250 GB,matowa,1366 x 768,,,
+Nowy,,SSD,Mac OS,Intel Core i5,2,2.9 GHz,8 GB,DDR3,1600,128 GB,błyszcząca,1440 x 900,Intel HD Graphics 6000,1.35 kg,
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,2.9 GHz,8 GB,DDR3L,,256 GB,matowa,1600 x 900,Intel HD Graphics 5500,,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2400,256 GB,błyszcząca,1920 x 1080,NVIDIA GeForce GT 940MX,2 kg,3500 mAh
+Nowy,TN,SSD + HDD,Windows 10 Home,Intel Core i7,4,3.4 GHz,16 GB,DDR4,2400,2256 GB,matowa,1920 x 1080,,2.18 kg,42 Wh
+Nowy,,SSD,Windows 10 Home,Intel Core i5,4,3.4 GHz,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.27 kg,4335 mAh
+Używany,TN,HDD,brak systemu,Intel Core 2 Duo,2,1.6 GHz,4 GB,DDR2,,160 GB,matowa,Inna,,,
+Nowy,,HDD,Windows 10 Home,Intel Pentium Quad-Core,4,2.7 GHz,4 GB,DDR4,2133,1000 GB,matowa,1920 x 1080,,1.92 kg,
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,2,,8 GB,DDR4,2133,128 GB,matowa,1920 x 1080,,2.2 kg,
+Nowy,IPS,SSD,Mac OS,Intel Core i9,6,4.8 GHz,32 GB,DDR4,2400,1000 GB,błyszcząca,2880 x 1800,AMD Radeon Pro 560X,1.83 kg,83.6 Wh
+Po zwrocie,IPS,SSD,Windows 10 Home,Intel Core i7,4,4 GHz,16 GB,DDR4,,512 GB,błyszcząca,1920 x 1080,,,
+Powystawowy,TN,HDD,inny,Intel Core i5,2,,8 GB,DDR3,,320 GB,matowa,1600 x 900,,2.5 kg,
+Nowy,IPS,SSD + HDD,Windows 10 Home,Intel Core i3,2,3.4 GHz,8 GB,DDR4,2400,740 GB,matowa,1920 x 1080,,2.79 kg,3220 mAh
+Powystawowy,,HDD,Windows 10 Home,Intel Core i3,2,,4 GB,DDR4,2133,500 GB,matowa,1366 x 768,Intel HD Graphics 520,1.55 kg,
+Nowy,TN,SSD,Windows 10 Home,Intel Core i3,2,2 GHz,8 GB,DDR4,2133,240 GB,matowa,1920 x 1080,Intel HD Graphics 520,1.93 kg,3070 mAh
+Nowy,IPS,SSD,Windows 10 Home,Intel Core i5,4,3.6 GHz,8 GB,DDR3L,1600,256 GB,matowa,1920 x 1080,NVIDIA GeForce MX150,,
+Nowy,IPS,SSD,Windows 10 Professional,Intel Core i7,4,4.2 GHz,32 GB,DDR4,2400,256 GB,matowa,1920 x 1080,Intel HD Graphics 620,1.4 kg,60 Wh
+Używany,,SSD,Windows 10 Home,Intel Core i5,2,,8 GB,DDR3,,120 GB,matowa,1366 x 768,,3 kg,
+Nowy,TN,SSD,Windows 10 Professional,Intel Core i7,2,3.5 GHz,8 GB,DDR4,2133,256 GB,matowa,1920 x 1080,AMD Radeon R5 M420,2.3 kg,2700 mAh
+Używany,TN,SSD,Windows 7 Professional 64-bit,Intel Core i5,2,3 GHz,8 GB,DDR3L,,128 GB,matowa,1366 x 768,Intel HD Graphics 4400,1.4 kg,
+Powystawowy,TN,HDD,"Windows 7 Home 64-bit, inny, Windows 7 Professional 64-bit",Intel Core i3,2,,8 GB,DDR3,,320 GB,matowa,1366 x 768,Intel HD Graphics 3000,1.8 kg,
